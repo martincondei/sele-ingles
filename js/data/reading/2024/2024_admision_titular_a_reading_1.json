@@ -1,0 +1,140 @@
+{
+  "id": "2024_admision_titular_a_reading_1",
+  "title": "La Catrina",
+  "text": "Mexicans have an exceptional relationship with death and the afterlife because they are quite unique in taking it good- humoredly and passionately. That doesn’t mean that Mexicans don’t grieve or miss those who have passed away —they just choose to remember them by celebrating their lives and memories. On November 2nd, the Day of the Dead, families gather in cemeteries to feast while they clean tombstones, sing songs, and talk to their ancestors. Parents might even introduce a baby to a grandparent who died before the baby was born.\n\nOne of the most recognizable symbols of the Day of the Dead celebrations is La Catrina, a female skeleton wearing a fancy hat. Her striking makeup has become trendy worldwide. The essence of La Catrina’s story goes deep into Mexican roots as the Aztecs worshipped Mictecacihuatl, a goddess of death that protected and helped their departed loved ones into the next stages. However, the skull that we see today was created in the early 1900s by José Guadalupe Posada. This cartoonist drew calaveras in a satirical way to urge people to stop pretending to be something that they weren’t, for they would all die someday.\n\nLater, famous artist and husband of Frida Kahlo, Diego Rivera, immortalized Posada’s Catrina in one of his murals. He painted her wearing sophisticated clothing and an extravagant hat with feathers, thus creating the multicolored look that she’s well-known for today. From there, La Catrina became a powerful symbol for the numerous Day of the Dead events. Women use colorful makeup and wear lively outfits evoking the famous skeleton.\n\nTourists find La Catrina fascinating and many purchase Catrina figurines as souvenirs. La Catrina is definitely a Mexican icon!",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, ...",
+      "options": {
+        "A": "Mexicans don’t have a frivolous attitude towards death",
+        "B": "the modern image of La Catrina looks like an Aztec goddess",
+        "C": "Rivera turned his wife into the famous icon of La Catrina",
+        "D": "Frida Kahlo designed La Catrina’s costume"
+      },
+      "answer": [
+        "A"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, Posada...",
+      "options": {
+        "A": "came up with the idea of the Day of the Dead",
+        "B": "was a makeup artist",
+        "C": "reminded people of the certainty of death",
+        "D": "portrayed death in stylish clothes"
+      },
+      "answer": [
+        "C"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "On the Day of the Dead, Mexican people take care of the graves of their departed loved ones",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "On November 2nd, the Day of the Dead, families gather in cemeteries to feast while they clean tombstones, sing songs, and talk to their ancestors.",
+          "lines": [
+            3,
+            4
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "Mictecacihuatl was believed to safeguard the dead",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "The essence of La Catrina’s story goes deep into Mexican roots as the Aztecs worshipped Mictecacihuatl, a goddess of death that protected and helped their departed loved ones into the next stages.",
+          "lines": [
+            7,
+            8
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "The Day of the Dead celebrations require a modest dress code",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "Women use colorful makeup and wear lively outfits evoking the famous skeleton.",
+          "lines": [
+            13,
+            14
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "Catrina dolls are regarded as sacred, and thus are not for sale",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "Tourists find La Catrina fascinating and many purchase Catrina figurines as souvenirs.",
+          "lines": [
+            15
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [],
+      "line": 4,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [],
+      "line": 8,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [],
+      "line": 12,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [],
+      "line": 10,
+      "points": 0.25
+    }
+  ]
+}

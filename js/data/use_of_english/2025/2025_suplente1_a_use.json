@@ -1,0 +1,187 @@
+{
+  "id": "2025_suplente1_a_use",
+  "year": 2025,
+  "title": "Use of English – 2025 Suplente 1 A",
+  "points": {
+    "total": 3,
+    "perQuestion": 0.5
+  },
+  "hasBlocks": true,
+  "blockRules": {
+    "mustChooseOne": true,
+    "questionsPerBlock": 6
+  },
+  "blocks": [
+    {
+      "id": "option_1",
+      "label": "Option 1",
+      "questionIds": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ]
+    },
+    {
+      "id": "option_2",
+      "label": "Option 2",
+      "questionIds": [
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "B1",
+      "type": "text",
+      "task": "wish",
+      "prompt": "What a pity you couldn’t come along to the theatre yesterday.",
+      "instruction": "(WISH)",
+      "answers": [
+        "I wish you had come along to the theatre yesterday",
+        "I wish you had been able to come along to the theatre yesterday",
+        "I wish you could have come along to the theatre yesterday"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "task": "conditional",
+      "prompt": "Elena didn’t have a driving license, so she couldn’t get the job.",
+      "instruction": "If Elena...",
+      "answers": [
+        "If Elena had a driving license, she would have got the job",
+        "If Elena had had a driving license, she would have got the job",
+        "If Elena had a driving license, she would have been able to get the job",
+        "If Elena had had a driving license, she would have been able to get the job"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B3",
+      "type": "text",
+      "task": "purpose",
+      "prompt": "Steven left early because he needed to pick up his son from nursery school.",
+      "instruction": "In order to...",
+      "answers": [
+        "In order to pick up his son from nursery school, Steven left early"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B4",
+      "type": "text",
+      "task": "modal",
+      "prompt": "It is possible that we will go to Isla Mágica tomorrow.",
+      "instruction": "We...",
+      "answers": [
+        "We may go to Isla Mágica tomorrow",
+        "We might go to Isla Mágica tomorrow",
+        "We could go to Isla Mágica tomorrow"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B5",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "A lot of people fear spiders.",
+      "instruction": "(SCARED)",
+      "answers": [
+        "A lot of people are scared of spiders"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B6",
+      "type": "text",
+      "task": "passive",
+      "prompt": "The environment shouldn’t be polluted.",
+      "instruction": "We...",
+      "answers": [
+        "We shouldn’t pollute the environment"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B7",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "All my friends have passed their driving test.",
+      "instruction": "None...",
+      "answers": [
+        "None of my friends have failed their driving test"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B8",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Is this sweater yours?",
+      "instruction": "(BELONG)",
+      "answers": [
+        "Does this sweater belong to you"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B9",
+      "type": "text",
+      "task": "relative",
+      "prompt": "Bill’s car broke down and he had to take a taxi.",
+      "instruction": "(WHOSE)",
+      "answers": [
+        "Bill, whose car broke down, had to take a taxi",
+        "Bill, whose car had broken down, had to take a taxi"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B10",
+      "type": "text",
+      "task": "reported_speech",
+      "prompt": "‘I’m sorry I dropped your tablet,’ said Stephen to him.",
+      "instruction": "(APOLOGISED)",
+      "answers": [
+        "Stephen apologised to him for dropping his tablet",
+        "Stephen apologised to him for having dropped his tablet",
+        "Stephen apologised for dropping his tablet",
+        "Stephen apologised for having dropped his tablet",
+        "Stephen apologised that he dropped his tablet",
+        "Stephen apologised that he had dropped his tablet"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B11",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "The last time Taylor Swift sang “Change” at a concert was five years ago.",
+      "instruction": "(FOR)",
+      "answers": [
+        "Taylor Swift hasn’t sung Change at a concert for five years"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B12",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I regularly make financial decisions at work.",
+      "instruction": "I am used...",
+      "answers": [
+        "I am used to making financial decisions at work"
+      ],
+      "points": 0.5
+    }
+  ]
+}

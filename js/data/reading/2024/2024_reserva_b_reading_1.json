@@ -1,0 +1,147 @@
+{
+  "id": "2024_reserva_b_reading_1",
+  "title": "Daylight Saving Time",
+  "text": "Spring marks many changes and, for many people around the world, the beginning of Daylight Saving Time (DST). The idea behind the clock shift is to make better use of sunlight.\n\nBenjamin Franklin is often credited as the first to suggest the change in 1784. When he was an American delegate in Paris, he felt he was wasting his Parisian mornings by staying in bed after the sun had come up. He ironically proposed that the French should fire cannons at sunrise to wake up people, so that they would go to bed earlier and use fewer candles at night.\n\nIt wasn't until resources became limited during World War I that Germany decided to go ahead with a clock-changing plan, implementing the first DST in 1916. Most of Europe followed their example in a matter of weeks, and the United States did the same in 1918.\n\nNowadays, DST still has fervent supporters who claim that it helps drive the economy. Conversely, it’s often argued that, apart from the legion of missed meetings and sleepy citizens, DST causes adverse effects on our health and safety. Studies reveal that changing clocks brings about an increase in heart attacks and fatal car accidents. DST opponents even question whether there have ever been energy savings at all.\n\nAll in all, the time shift is becoming more and more unpopular around the world, since people today are fond of going out after work and it’s obviously nicer doing so when it’s lighter outside. Recently, a survey showed 80% of Europeans were against DST, and every October the matter is a controversial topic, with people either expressing enthusiasm about sunny mornings or complaining about shorter days.\n\n2. According to the text, Benjamin Franklin... (a)",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, Daylight Saving Time (DST)...",
+      "options": {
+        "A": "seems to benefit our health",
+        "B": "was proposed by the French government",
+        "C": "helps us sleep better",
+        "D": "has been argued to improve the economy"
+      },
+      "answer": [
+        "D"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, Benjamin Franklin...",
+      "options": {
+        "A": "suggested changing sleeping habits",
+        "B": "was against changing clocks",
+        "C": "loved to sleep in the morning",
+        "D": "made the French alter their customs"
+      },
+      "answer": [
+        "A"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "According to the text, clocks change in the spring to make the most of natural light",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Spring marks many changes and, for many people around the world, the beginning of Daylight Saving Time DST. The idea behind the clock shift is to make better use of sunlight.",
+          "lines": [
+            1,
+            2
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "When he was an American delegate in Paris, he felt he was wasting his Parisian mornings by staying in bed after the sun had come up. He ironically proposed that the French should fire cannons at sunrise to wake up people, so that they would go to bed earlier and use fewer candles at night. It wasn't until resources became limited during World War I that Germany decided to go ahead with a clock-changing plan, implementing the first DST in 1916. Most of Europe followed their example in a matter of weeks, and the United States did the same in 1918. Nowadays, DST still has fervent supporters who claim that it helps drive the economy. Conversely, it’s often argued that, apart from the legion of missed meetings and sleepy citizens, DST causes adverse effects on our health and safety. Studies reveal that changing clocks brings about an increase in heart attacks and fatal car accidents. DST opponents even question whether there have ever been energy savings at all. All in all, the time shift is becoming more and more unpopular around the world, since people today are fond of going out after work and it’s obviously nicer doing so when it’s lighter outside. Recently, a survey showed 80% of Europeans were against DST, and every October the matter is a controversial topic, with people either expressing enthusiasm about sunny mornings or complaining about shorter days. (a) seems to benefit our health. (c) helps us sleep better. 2. According to the text, Benjamin Franklin... (a) (a) suggested changing sleeping habits. (c) loved to sleep in the morning. (b) was proposed by the French government. (d) has been argued to improve the economy. (b) was against changing clocks. (d) made the French alter their customs. ARE THESE STATEMENTS TRUE OR FALSE? JUSTIFY YOUR ANSWERS WITH THE PRECISE WORDS OR PHRASES FROM THE TEXT, OR USE YOUR OWN WORDS. (0.5 points each) 3. According to the text, clocks change in the spring to make the most of natural light",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Spring marks many changes and, for many people around the world, the beginning of Daylight Saving Time DST. The idea behind the clock shift is to make better use of sunlight.",
+          "lines": [
+            1,
+            2
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "People may even die due to Daylight Saving Time (DST)",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Studies reveal that changing clocks brings about an increase in heart attacks and fatal car accidents.",
+          "lines": [
+            10,
+            11
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "Most of Europe followed their example in a matter of weeks, and the United States did the same in 1918. Nowadays, DST still has fervent supporters who claim that it helps drive the economy. Conversely, it’s often argued that, apart from the legion of missed meetings and sleepy citizens, DST causes adverse effects on our health and safety. Studies reveal that changing clocks brings about an increase in heart attacks and fatal car accidents. DST opponents even question whether there have ever been energy savings at all. All in all, the time shift is becoming more and more unpopular around the world, since people today are fond of going out after work and it’s obviously nicer doing so when it’s lighter outside. Recently, a survey showed 80% of Europeans were against DST, and every October the matter is a controversial topic, with people either expressing enthusiasm about sunny mornings or complaining about shorter days. (a) seems to benefit our health. (c) helps us sleep better. 2. According to the text, Benjamin Franklin... (a) (a) suggested changing sleeping habits. (c) loved to sleep in the morning. (b) was proposed by the French government. (d) has been argued to improve the economy. (b) was against changing clocks. (d) made the French alter their customs. ARE THESE STATEMENTS TRUE OR FALSE? JUSTIFY YOUR ANSWERS WITH THE PRECISE WORDS OR PHRASES FROM THE TEXT, OR USE YOUR OWN WORDS. (0.5 points each) 3. According to the text, clocks change in the spring to make the most of natural light",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Spring marks many changes and, for many people around the world, the beginning of Daylight Saving Time DST. The idea behind the clock shift is to make better use of sunlight.",
+          "lines": [
+            1,
+            2
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "sunrise"
+      ],
+      "line": 5,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [],
+      "line": 11,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [
+        "fire"
+      ],
+      "line": 5,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [
+        "ahead"
+      ],
+      "line": 6,
+      "points": 0.25
+    }
+  ]
+}

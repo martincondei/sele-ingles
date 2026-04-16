@@ -1,0 +1,145 @@
+{
+  "id": "2024_access_titular_b_reading_1",
+  "title": "The Ethics Of True Crime",
+  "text": "True crime TV shows have been so popular in the past few years that they have become the object of academic study. Professor of Media Ethics Whitney Phillips claims that the reason for the current success of this genre, as compared to novels and movies, is the reality factor: audiences enjoy feeling engaged in an actual mystery happening before them.\n\nResearch has found that white women are the largest demographic group consuming true crime. The explanation is that, since white women have anxiety about potential threats, they turn to true crime to feel better prepared in case anything violent were to happen to them. The fact that the target audience is basically white women determines the profile of typical victims in true crime —white and female. After all, audiences prefer to watch cases they can relate to. Phillips argues that this produces the “missing white woman syndrome,” that is, the idea that there’s only one type of victim whose story matters. The media reinforce this with many stories and updates about white female victims, while stories about marginalized groups like Indigenous women are rarely shown, if at all. Even white women who are missing or murdered receive little media attention when they’re sex workers, because they’re perceived as less valuable than “innocent” white women.\n\nAnother harmful effect resulting from the boom of true crime is the dehumanization of victims when their tragedies become marketable content. As one victim said, “My trauma’s not your entertainment. Awareness is a whole different story.”\n\nFortunately, there’s an alternative: ethical true crime, which avoids sensationalising the narrative and honours victims. Further still, it seeks a way to help their case and alert to social inequalities.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, the key to the boom of true crime shows lies in...",
+      "options": {
+        "A": "adapting popular books and films",
+        "B": "presenting real people’s cases",
+        "C": "dealing with different types of victims",
+        "D": "its academic research interest"
+      },
+      "answer": [
+        "B"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, white women follow the true crime genre in great numbers...",
+      "options": {
+        "A": "because it is a brand-new genre",
+        "B": "because they like thrilling stories",
+        "C": "to learn how to keep safe",
+        "D": "out of sympathy for marginalised victims"
+      },
+      "answer": [
+        "C"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "True crime’s average viewers resemble the victims featured in the shows",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "The fact that the target audience is basically white women determines the profile of typical victims in true crime —white and female.",
+          "lines": [
+            6,
+            7
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "There is a shortage of true crime episodes about Native American female victims",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "The media reinforce this with many stories and updates about white female victims, while stories about marginalized groups like Indigenous women are rarely shown , if at all.",
+          "lines": [
+            8,
+            10
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "All white female victims are equally relevant for the media",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "Even white women who are missing or murdered receive little media attention when they’re sex workers , because they’re perceived as less valuable than ‘innocent’ white women.",
+          "lines": [
+            10,
+            11
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "Ethical true crime raises visibility for all kinds of victims",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Further still,  it seeks a way to help their case and alert to social inequalities.",
+          "lines": [
+            14,
+            15
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "rarely"
+      ],
+      "line": 9,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "valuable"
+      ],
+      "line": 11,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [],
+      "line": 9,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [],
+      "line": 5,
+      "points": 0.25
+    }
+  ]
+}
