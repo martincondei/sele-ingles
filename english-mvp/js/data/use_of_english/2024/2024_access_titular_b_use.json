@@ -1,0 +1,215 @@
+{
+  "id": "2024_access_titular_b_use",
+  "year": 2024,
+  "title": "Use of English – 2024 – Acceso Titular B",
+  "points": {
+    "total": 3,
+    "perQuestion": 0.5
+  },
+  "hasBlocks": true,
+  "blockRules": {
+    "mustChooseOne": true,
+    "questionsPerBlock": 6
+  },
+  "blocks": [
+    {
+      "id": "block_1",
+      "label": "Bloque 1",
+      "questionIds": [
+        "B17.1",
+        "B17.2",
+        "B19",
+        "B21",
+        "B23",
+        "B25",
+        "B27"
+      ]
+    },
+    {
+      "id": "block_2",
+      "label": "Bloque 2",
+      "questionIds": [
+        "B18.1",
+        "B18.2",
+        "B20",
+        "B22",
+        "B24",
+        "B26",
+        "B28"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "B17.1",
+      "type": "text",
+      "task": "verb_form",
+      "prompt": "When hanging out with your friends, avoid ... junk food.",
+      "instruction": "(buy)",
+      "answers": [
+        "buying"
+      ],
+      "points": 0.25,
+      "groupId": "B17"
+    },
+    {
+      "id": "B17.2",
+      "type": "text",
+      "task": "verb_form",
+      "prompt": "At 9 p.m. tomorrow I ... over Cambridge.",
+      "instruction": "(fly)",
+      "answers": [
+        "will be flying"
+      ],
+      "points": 0.25,
+      "groupId": "B17"
+    },
+    {
+      "id": "B18.1",
+      "type": "mcq",
+      "prompt": "There is ... noise in the classroom.",
+      "options": {
+        "A": "too many",
+        "B": "too much",
+        "C": "few",
+        "D": "a lot"
+      },
+      "answer": [
+        "B"
+      ],
+      "points": 0.25,
+      "groupId": "B18"
+    },
+    {
+      "id": "B18.2",
+      "type": "mcq",
+      "prompt": "Lisa came ... a gold ring in the sand.",
+      "options": {
+        "A": "up",
+        "B": "off",
+        "C": "round",
+        "D": "across"
+      },
+      "answer": [
+        "D"
+      ],
+      "points": 0.25,
+      "groupId": "B18"
+    },
+    {
+      "id": "B19",
+      "type": "text",
+      "task": "active_voice",
+      "prompt": "Will Ed Sheeran’s new album be released soon?",
+      "instruction": "Turn into the active voice.",
+      "answers": [
+        "Will they release Ed Sheeran’s new album soon"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B20",
+      "type": "text",
+      "task": "passive",
+      "prompt": "You may see dolphins in this area if the sea is calm.",
+      "instruction": "Turn into the passive voice.",
+      "answers": [
+        "Dolphins may be seen in this area if the sea is calm"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B21",
+      "type": "text",
+      "task": "wh_question",
+      "prompt": "The museum is just two miles from here.",
+      "instruction": "Give a question for the underlined words.",
+      "answers": [
+        "How far is the museum from here",
+        "How far from here is the museum"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B22",
+      "type": "text",
+      "task": "relative",
+      "prompt": "Ann’s favourite dish is chicken Tikka Masala. She buys it at the local shop.",
+      "instruction": "Join using a relative.",
+      "answers": [
+        "Ann’s favourite dish is chicken Tikka Masala, which she buys at the local shop",
+        "Ann’s favourite dish, which she buys at the local shop, is chicken Tikka Masala"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B23",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "The podcast was so fascinating that I couldn’t stop listening to it.",
+      "instruction": "It was such...",
+      "answers": [
+        "It was such a fascinating podcast that I couldn’t stop listening to it"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B24",
+      "type": "text",
+      "task": "complete",
+      "prompt": "My mother got promoted last month, since...",
+      "instruction": "Complete the sentence.",
+      "answers": [],
+      "points": 0.5
+    },
+    {
+      "id": "B25",
+      "type": "text",
+      "task": "error_correction",
+      "prompt": "I’m not used to speak in public, but I'm getting better in it.",
+      "instruction": "Find the mistakes and rewrite correctly.",
+      "answers": [
+        "I’m not used to speaking in public, but I’m getting better at it"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B26",
+      "type": "text",
+      "task": "direct_speech",
+      "prompt": "My colleague asked me to postpone our meeting.",
+      "instruction": "Turn into direct speech.",
+      "answers": [
+        "Could we postpone our meeting, please",
+        "Can we postpone our meeting, please",
+        "Could you postpone our meeting, please",
+        "Can you postpone our meeting, please",
+        "Postpone our meeting, please"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B27",
+      "type": "text",
+      "task": "reported_speech",
+      "prompt": "'If you have any problems with the heater, you can call me tonight,' the landlord told Sally.",
+      "instruction": "Turn into reported speech.",
+      "answers": [
+        "The landlord told Sally that if she had any problems with the heater, she could call him that night",
+        "The landlord said to Sally that if she had any problems with the heater, she could call him that night"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B28",
+      "type": "text",
+      "task": "word_order",
+      "prompt": "Use the words in the boxes to make a meaningful sentence. Use all and only the words in the boxes without changing their form.",
+      "instruction": "Words: is / deadline / to / established / the / he / miss / likely",
+      "answers": [
+        "He is likely to miss the established deadline"
+      ],
+      "points": 0.5
+    }
+  ]
+}

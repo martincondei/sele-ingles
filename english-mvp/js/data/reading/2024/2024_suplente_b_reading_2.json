@@ -1,0 +1,149 @@
+{
+  "id": "2024_suplente_b_reading_2",
+  "title": "Your Nose Knows",
+  "text": "Smell is a powerful sense. Why can a particular smell take us immediately to a vivid moment of our past? Smell and memory are so closely linked because, according to Harvard professor Venkatesh Murthy, “olfactory signals have direct access to the limbic system —the brain centre of emotion and memory.” Smell also plays a huge role in taste. When you chew, food molecules “make their way back to your nasal epithelium, so what you consider flavour is really smell.” Murthy says you can check this by pinching your nose when eating chocolate. With your nose passageway blocked, you’ll just taste sweetness instead of chocolate’s distinctive flavour.\n\nHistory confirms the importance of smell. Hieroglyphics show Ancient Egyptians making perfume as long ago as 3,000 BC. Egyptian priests burnt aromatic resins to sweeten the air in holy ceremonials and burials because they believed that this ritual connected humans with the gods. When those tombs were opened in the 1800s, the perfumes still maintained their original smells. There are also references to perfume in the Bible, and Chinese writings on aromatic products date even further back. So, when was perfumery born? Well, Stone Age humans had fire and could burn fragrant woods, but until archaeologists come across new evidence, we can only guess.\n\nIn 16th- and 17th-century Europe, people associated unpleasant smells with disease. Wealthy people used scented things like cosmetics or perfumed gloves in the hope that their pleasant aroma could protect them against infection.\n\nUnsurprisingly, today’s perfume industry is a multi-million market. The latest thing: exclusive stores and hotels which have their own signature scents to make a lasting impression on customers through the power of perfume.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, the use of perfumed substances in Ancient Egypt...",
+      "options": {
+        "A": "is mentioned in the Bible",
+        "B": "was meant to mask the smell of death",
+        "C": "played a religious role",
+        "D": "has not been documented"
+      },
+      "answer": [
+        "C"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "Historically, perfume was once believed to...",
+      "options": {
+        "A": "be a gift from the gods",
+        "B": "intensify body smell",
+        "C": "affect people’s emotions",
+        "D": "prevent illness"
+      },
+      "answer": [
+        "D"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "Smell and memory are anatomically related",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Smell and memory are so closely linked because, according to Harvard professor Venkatesh Murthy, ‘olfactory signals have direct access to the limbic system —the brain centre of emotion and memory.’",
+          "lines": [
+            1,
+            3
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "You can fully taste food even if you cover your nose",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "Murthy says you can check this by pinching your nose when eating chocolate. With your nose passageway blocked, you’ll just taste sweetness instead of chocolate’s distinctive flavour.",
+          "lines": [
+            4,
+            6
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "The use of perfume among primitive tribes has yet to be proved",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Well, Stone Age humans had fire and could burn fragrant woods, but until archaeologists come across new evidence, we can only guess.",
+          "lines": [
+            11,
+            12
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "Some top companies use perfume to make their brand unforgettable",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "The latest thing: exclusive stores and hotels which have their own signature scents to make a lasting impression on customers through the power of perfume.",
+          "lines": [
+            15,
+            16
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "guess"
+      ],
+      "line": 12,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "holy"
+      ],
+      "line": 8,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [
+        "vivid"
+      ],
+      "line": 1,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [
+        "chew"
+      ],
+      "line": 3,
+      "points": 0.25
+    }
+  ]
+}

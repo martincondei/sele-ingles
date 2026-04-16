@@ -1,0 +1,97 @@
+{
+  "id": "2025_suplente2_a_reading",
+  "title": "Conspiracy Theories",
+  "text": "Conspiracy theories have existed throughout history, with some people more inclined to believe in them than others. A conspiracy theory is defined as an explanation that rejects the official narrative of an event, instead attributing it to a covert group or organization carrying out a secret plot. Since these theories often center on the idea that powerful groups are hiding their actions from the public, they can be extremely difficult to disprove. Conspiracy theorists may even see anyone who tries to refute their theory as part of the conspiracy themselves.\n\nThe success of conspiracy theories largely derives from the exploitation of fundamental aspects of the human mind, such as trying to make sense of the world and connect with other people. Their explanations about the world create a sense of security. However, these theories are false and can range from harmless rumors to, very frequently, dangerous beliefs that can cause people’s deaths.\n\nTake the rumors surrounding the 1969 moon landing, for example. Some people believe that humanity never actually went to the Moon, and that the iconic televised moment when Neil Armstrong set foot on the lunar surface never happened. Instead, conspiracy theorists believe the event was filmed on a studio. The theory originated with a former NASA engineer, Bill Kaysing, who published a book claiming the entire mission was fake. Those who believed in and promoted the theory pointed to the immense pressure that NASA faced to fulfill President Kennedy’s mandate to reach the Moon by 1970. Over the years, many conspiracy theorists have continued to argue that there is “evidence” that the moon landing was fabricated and part of a misinformation campaign. However, scientists have disproved all these claims.\n\nThe Salem Witch Trials is one of the most well-known historical examples of how conspiratory theories can have lethal consequences. The trials began in 1692, when a group of women in Salem, Massachusetts, believed other women were demon-possessed and accused them of witchcraft. Soon, people became convinced that their neighbors were witches. The belief wasn’t temporary—the trials continued for over a year. The supposed witches were put in front of a judge and jury, and thirty of them were sentenced to hanging. The witch trials serve as a clear example of the immense harm that can be caused by a group of people convinced that a more powerful group is conspiring with evil intentions.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, people subscribe conspiracy theories because...",
+      "options": {
+        "A": "these theories are secret",
+        "B": "they have access to privileged information",
+        "C": "they think that these theories are simple",
+        "D": "they think that information is being kept from them"
+      },
+      "answer": ["D"],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, conspiracy theorists...",
+      "options": {
+        "A": "target people who doubt them",
+        "B": "back up their beliefs with scientific evidence",
+        "C": "are rich and powerful people",
+        "D": "are skeptical about rumors"
+      },
+      "answer": ["A"],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "Conspiracy theories may help people link up to others with similar beliefs.",
+      "answer": [true],
+      "justification": [{"text": "trying to make sense of the world and connect with other people", "lines": [6, 7]}],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "It is still unclear how the moon landing conspiracy theory began.",
+      "answer": [false],
+      "justification": [{"text": "The theory originated with a former NASA engineer, Bill Kaysing", "lines": [12, 13]}],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "The Moon conspiracy theory was spread by people who thought it was a political strategy.",
+      "answer": [true],
+      "justification": [{"text": "the immense pressure that NASA faced to fulfill President Kennedy’s mandate to reach the Moon by 1970", "lines": [13, 14]}],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "It took a while to convince Salem villagers that there were witches living among them.",
+      "answer": [false],
+      "justification": [{"text": "Soon, people became convinced that their neighbors were witches", "lines": [18, 19]}],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM FOR: gossip (noun).",
+      "answer": ["rumor", "rumors"],
+      "line": 8,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM FOR: whole (adjective).",
+      "answer": ["entire"],
+      "line": 13,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: use of magic or supernatural powers to inflict harm or misfortune on others.",
+      "answer": ["witchcraft"],
+      "line": 18,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: the top layer of an area of water or land.",
+      "answer": ["surface"],
+      "line": 11,
+      "points": 0.25
+    }
+  ]
+}

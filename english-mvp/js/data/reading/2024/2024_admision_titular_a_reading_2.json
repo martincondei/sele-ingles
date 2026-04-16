@@ -1,0 +1,146 @@
+{
+  "id": "2024_admision_titular_a_reading_2",
+  "title": "The Disappearance Of Michael Rockefeller",
+  "text": "Michael Rockefeller, great-grandson of the founder of the wealthy Rockefeller dynasty, was deeply impressed when his father opened the Museum of Primitive Art in 1960. He decided there and then to devote his life to finding “primitive” art —a term no longer used today due to its implications that non-Western cultures are inferior. Within months of the museum launch, Michael went on an expedition trip to New Guinea —ruled by the Netherlands at the time— to collect art from the native Asmat people. Michael learned on arrival that Asmat warriors took the heads of their enemies in battle and that they practised cannibalism. He was fascinated by these people, who represented such an intriguing violation of the norms of Western society.\n\nWhen Michael returned to the island one year later, his boat sank. The Rockefellers spent a small fortune supporting the Dutch’s search for Michael. Despite all efforts, the search was called off barely two weeks after the boating accident. Michael was never seen again. The official cause of death was filed as drowning, but the news and rumours about it spread like wildfire in\n\ntabloids and newspapers.\n\nIn 2014, reporter Carl Hoffman revealed in a book that the Netherlands’ inquiries into the matter had concluded, shortly after\n\nthe disappearance, that the Asmat had killed Michael. But why would the Dutch bury those files? According to Hoffman, Michael couldn’t have arrived at a worst time: the Netherlands was losing the colony to Indonesia, and the scandal would have exposed their lack of control. So, they denied the murder rumours even to the Rockefellers, who to this day refuse to accept any other version of events than that Michael drowned.\n\n10. According to the text, the Rockefellers... (c) (a) assigned Michael the hunt for museum pieces. (c) were lied to about Michael’s death at the time.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, Michael Rockefeller travelled to New Guinea...",
+      "options": {
+        "A": "once, and never returned from there",
+        "B": "because he wanted to found a new museum",
+        "C": "in search of articles of local art",
+        "D": "after its independence from the Netherlands"
+      },
+      "answer": [
+        "C"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, the Rockefellers...",
+      "options": {
+        "A": "assigned Michael the hunt for museum pieces",
+        "B": "still don’t believe that Michael drowned",
+        "C": "were lied to about Michael’s death at the time",
+        "D": "searched for Michael on their own"
+      },
+      "answer": [
+        "C"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "Michael knew about the Asmats’ warfare practices before going to New Guinea",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "Michael learned on arrival that Asmat warriors took the heads of their enemies in battle and that they practised cannibalism.",
+          "lines": [
+            5
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "The mysterious disappearance of Michael Rockefeller was a media sensation",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "The official cause of death was filed as drowning, but the news and rumours about it spread like wildfire in tabloids and newspapers.",
+          "lines": [
+            9,
+            10
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "The Netherlands’ authorities have recently discovered that Michael never drowned",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "In 2014, reporter Carl Hoffman revealed in a book that the Netherlands’ inquiries into the matter had concluded, shortly after the disappearance, t hat the Asmat had killed Michael.",
+          "lines": [
+            11,
+            12
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "The Netherlands was experiencing political problems in New Guinea at the time of Michael’s death",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "According to Hoffman, Michael couldn’t have arrived at a worst time: the Netherlands was losing the colony to Indonesia and the scandal would have exposed their lack of control.",
+          "lines": [
+            12,
+            14
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "launch"
+      ],
+      "line": 3,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "devote"
+      ],
+      "line": 2,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [],
+      "line": 4,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [
+        "dynasty"
+      ],
+      "line": 1,
+      "points": 0.25
+    }
+  ]
+}

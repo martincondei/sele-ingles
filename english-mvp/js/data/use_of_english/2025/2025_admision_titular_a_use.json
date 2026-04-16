@@ -1,0 +1,179 @@
+{
+  "id": "2025_admision_titular_a_use",
+  "year": 2025,
+  "title": "Use of English – 2025 Admisión Titular A",
+  "points": {
+    "total": 3,
+    "perQuestion": 0.5
+  },
+
+  "hasBlocks": true,
+  "blockRules": {
+    "mustChooseOne": true,
+    "questionsPerBlock": 6
+  },
+
+  "blocks": [
+    {
+      "id": "option_1",
+      "label": "Option 1",
+      "questionIds": ["B1", "B2", "B3", "B4", "B5", "B6"]
+    },
+    {
+      "id": "option_2",
+      "label": "Option 2",
+      "questionIds": ["B7", "B8", "B9", "B10", "B11", "B12"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "B1",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I've never driven such an uncomfortable car before.",
+      "instruction": "(LEAST)",
+      "answers": [
+        "This is the least comfortable car I've ever driven"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "task": "conditional",
+      "prompt": "He will go with you provided that you don't drive fast.",
+      "instruction": "Unless…",
+      "answers": [
+        "Unless you drive more slowly, he will not go with you",
+        "Unless you drive slowly, he will not go with you"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B3",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Although she is a good lawyer, she doesn't always win her cases.",
+      "instruction": "Despite…",
+      "answers": [
+        "Despite being a good lawyer, she doesn't always win her cases",
+        "Despite the fact that she is a good lawyer, she doesn't always win her cases",
+        "Despite not always winning her cases, she is a good lawyer"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B4",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Claudia may know the right answer.",
+      "instruction": "(LIKELY)",
+      "answers": [
+        "It is likely that Claudia knows the right answer",
+        "Claudia is likely to know the right answer"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B5",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Please don't touch my laptop.",
+      "instruction": "I'd rather…",
+      "answers": [
+        "I'd rather you didn't touch my laptop"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B6",
+      "type": "text",
+      "task": "passive",
+      "prompt": "Someone will take you to the train station in a fancy car.",
+      "instruction": "You…",
+      "answers": [
+        "You will be taken to the train station in a fancy car"
+      ],
+      "points": 0.5
+    },
+
+    {
+      "id": "B7",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "It was a cold evening, so we decided to stay indoors.",
+      "instruction": "(SUCH)",
+      "answers": [
+        "It was such a cold evening that we decided to stay indoors"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B8",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "What time is the next bus to York?",
+      "instruction": "I would like to know…",
+      "answers": [
+        "I would like to know what time the next bus to York is",
+        "I would like to know when the next bus to York is",
+        "I would like to know what time the next bus to York leaves",
+        "I would like to know when the next bus to York leaves"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B9",
+      "type": "text",
+      "task": "relative",
+      "prompt": "I gave her a watch, but it stopped working two days later.",
+      "instruction": "(WHICH)",
+      "answers": [
+        "I gave her a watch which stopped working two days later",
+        "The watch which I gave her stopped working two days later"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B10",
+      "type": "text",
+      "task": "reported_speech",
+      "prompt": "‘Don't leave the door unlocked,' his mother told Peter.",
+      "instruction": "(WARNED)",
+      "answers": [
+        "His mother warned Peter not to leave the door unlocked",
+        "Peter's mother warned him not to leave the door unlocked",
+        "Peter was warned not to leave the door unlocked by his mother",
+        "Peter was warned by his mother not to leave the door unlocked"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B11",
+      "type": "text",
+      "task": "tense",
+      "prompt": "We'll get to the theatre after the beginning of the play.",
+      "instruction": "By the time…",
+      "answers": [
+        "By the time we get to the theatre, the play will have begun",
+        "By the time we get to the theatre, the play will already have begun"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B12",
+      "type": "text",
+      "task": "habit_in_past",
+      "prompt": "My sister ate a lot of sweets when she was a child.",
+      "instruction": "(USED)",
+      "answers": [
+        "My sister used to eat a lot of sweets when she was a child",
+        "When she was a child, my sister used to eat a lot of sweets",
+        "When my sister was a child, she used to eat a lot of sweets",
+        "As a child, my sister used to eat a lot of sweets"
+      ],
+      "points": 0.5
+    }
+  ]
+}
