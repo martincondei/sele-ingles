@@ -1,0 +1,145 @@
+{
+  "id": "2024_suplente_b_reading_1",
+  "title": "The 30-Million-Dollar Sandwich",
+  "text": "During the sixties, the United States was locked in a race with the Soviet Union for dominance in space. The question became who would get to the Moon first. In March 1965, NASA launched the spaceship Gemini 3 to develop space travel techniques in weightless conditions. It was the first U.S. mission to carry two astronauts —John Young and his crewmate, Gus Grissom.\n\nAs the frozen meals that NASA had selected were not exactly appetizing to Young’s palate, he slipped a beef sandwich into his pocket just before the spaceship was launched. Two days later at lunchtime, Young shared a bite of his hidden sandwich with Grissom. Suddenly, breadcrumbs started floating around due to the lack of gravity, putting at risk the pieces of equipment that kept the 30-million spacecraft running. Aware of the serious threat, the astronauts opted to put the sandwich away and continued their mission with crumbs floating around the cabin.\n\nYoung’s special menu didn’t cause any harm but it became a bigger issue back on Earth, resulting in an official review to discuss the incident. Young was given an official reprimand, the first ever for a NASA member. He eventually regretted taking the sandwich to space, but he later wrote that he didn’t think it was such a big deal. Firstly, because to his knowledge, it wasn’t even the first “illegal” sandwich but the third. And secondly, he joked, it didn’t even have mustard!\n\nWhile the infamous sandwich is no longer available, a similar one, preserved in acrylic, is on display at the Grissom Memorial Museum. It immortalizes the historic moment when an astronaut dared to eat a beef sandwich in space.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, ...",
+      "options": {
+        "A": "Young was reprehended because of the sandwich",
+        "B": "Gemini 3 was the first spacecraft to get to the Moon",
+        "C": "breadcrumbs damaged part of the spaceship",
+        "D": "Young wanted to play a joke on his mission companion"
+      },
+      "answer": [
+        "A"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, Young managed to...",
+      "options": {
+        "A": "eat the sandwich without being noticed",
+        "B": "keep on with the mission work",
+        "C": "make NASA change space menus",
+        "D": "hide food inside the spacecraft equipment"
+      },
+      "answer": [
+        "B"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "NASA made inquiries into the sandwich affair",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Young’s special menu didn’t cause any harm but it became a bigger issue back on Earth, resulting in an official review to discuss the incident.",
+          "lines": [
+            9,
+            10
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "Young apologised right away for what he had done",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "He eventually regretted taking the sandwich to space, but he later wrote that he didn't think it was such a big deal.",
+          "lines": [
+            10,
+            11
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "According to Young, no one had ever dared to do what he did",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "Firstly, because to his knowledge, it wasn’t even the first ‘illegal’ sandwich but the third.",
+          "lines": [
+            11,
+            12
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "The remains of the sandwich are exhibited for visitors to see",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "While the infamous sandwich is no longer available, a similar one, preserved in acrylic, is on display at the Grissom Memorial Museum.",
+          "lines": [
+            13,
+            14
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "appetizing"
+      ],
+      "line": 4,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "aware"
+      ],
+      "line": 7,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [],
+      "line": 14,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [],
+      "line": 12,
+      "points": 0.25
+    }
+  ]
+}

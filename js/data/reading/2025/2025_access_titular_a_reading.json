@@ -1,0 +1,97 @@
+{
+  "id": "2025_access_titular_a_reading",
+  "title": "Dollar Princesses",
+  "text": "During the late 1800s, a period also known as The Gilded Age, the US experienced rapid economic growth following the Civil War. Although some American families became insanely wealthy, they still considered themselves “commoners”, lacking the exquisite titles of European aristocracy, such as Dukes, Barons, and the like. This became unacceptable to many of them who wanted an aristocratic identity to accompany their newfound fortunes.\n\nMeanwhile, British noblemen represented “old world charm” on the other side of the Atlantic. They were sophisticated, cultured, and aristocratic, with noble titles passed down through their family legacies. However, they were desperate for cash due to economic pressures mostly caused by rural populations moving to the cities and the costly maintenance of their aging mansions.\n\nThe answer to the problems of the American millionaires and the British aristocracy can be summed up in two words: dollar princesses. Dollar Princess was a term referring to an American heiress, a woman from a newly wealthy family. The fathers of these “princesses” believed that a title would provide a shortcut to social acceptance. Since the American Constitution forbade the government from giving out titles of nobility, they “sold” their daughters to British aristocrats in exchange for titles.\n\nIn a short time, more than $25 billion was sent to Britain, rejuvenating dying aristocratic families and boosting the European economy. If these marriages seem like cold, hard contractual negotiations, it’s because they were. Very often, the future husbands were complete strangers to the young heiresses, who led hopeless and miserable lives with no support.\n\nOnce in Britain, most dollar princesses found their majestic homes terribly dark and cold, as they were in desperate need of repair. Soon, the new wives remodeled their homes, but they were often judged, and even mocked, for doing so. To make matters worse, they were marginalized by high society for their non-aristocratic roots.\n\nIn 1880, railway heiress Frances Ellen Work married the future Baron Fermoy. Like many dollar-princess matches, it was an unhappy one. The baron blew Frances’s $2.5 million fortune on gambling, and the couple divorced in 1891. Frances’s story might suggest that dollar princesses were but an anecdote in the history of Britain. However, just over a century after she traded her money for aristocracy, her great-granddaughter Diana Spencer became the Princess of Wales—and later, the mother of Prince William, now first in line to the British throne.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, Dollar Princesses...",
+      "options": {
+        "A": "married against their parents’ wishes",
+        "B": "saved their parents’ fortunes",
+        "C": "challenged their parents’ authority",
+        "D": "improved their parents’ prestige in social circles"
+      },
+      "answer": ["D"],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, after the wedding, Dollar Princesses...",
+      "options": {
+        "A": "were made fun of by their husbands",
+        "B": "were entirely on their own",
+        "C": "used their fortunes to entertain themselves",
+        "D": "were held in high regard by the noble class"
+      },
+      "answer": ["B"],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "The British nobles were unable to bear the expense of preserving their residences.",
+      "answer": [true],
+      "justification": [{"text": "the costly maintenance of their aging mansions", "lines": [7, 8]}],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "The American Government granted aristocratic titles to rich families.",
+      "answer": [false],
+      "justification": [{"text": "the American Constitution forbade the government from giving out titles of nobility", "lines": [11, 12]}],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "The brides used to date their husbands-to-be before the wedding.",
+      "answer": [false],
+      "justification": [{"text": "the future husbands were complete strangers to the young heiresses", "lines": [15, 16]}],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "Traces of the dollar princesses’ legacy can be seen in today’s British royal family.",
+      "answer": [true],
+      "justification": [{"text": "her great-granddaughter Diana Spencer became the Princess of Wales—and later, the mother of Prince William, now first in line to the British throne", "lines": [21, 22]}],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM FOR: origin (noun).",
+      "answer": ["root", "roots"],
+      "line": 19,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM FOR: ridicule (verb).",
+      "answer": ["mocked", "mock"],
+      "line": 18,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: change the structure or form of something, especially a building.",
+      "answer": ["remodel", "remodeled"],
+      "line": 18,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: the activity of betting money in a game.",
+      "answer": ["gambling"],
+      "line": 20,
+      "points": 0.25
+    }
+  ]
+}

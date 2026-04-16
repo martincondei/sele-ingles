@@ -1,0 +1,277 @@
+{
+  "exams": [
+    {
+      "id": "2024_access_titular_a",
+      "year": 2024,
+      "label": "Convocatoria 2024 – Acceso Titular A",
+      "reading": [
+        {
+          "id": "2024_access_titular_a_reading_1",
+          "title": "Young People’s Screen Time",
+          "file": "reading/2024/2024_access_titular_a_reading_1.json"
+        },
+        {
+          "id": "2024_access_titular_a_reading_2",
+          "title": "Charles Dickens",
+          "file": "reading/2024/2024_access_titular_a_reading_2.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2024_access_titular_a_use",
+        "title": "Use of English – 2024 Acceso Titular A",
+        "file": "use_of_english/2024/2024_access_titular_a_use.json"
+      }
+    },
+    {
+      "id": "2024_admision_titular_a",
+      "year": 2024,
+      "label": "Convocatoria 2024 – Admisión Titular A",
+      "reading": [
+        {
+          "id": "2024_admision_titular_a_reading_1",
+          "title": "La Catrina",
+          "file": "reading/2024/2024_admision_titular_a_reading_1.json"
+        },
+        {
+          "id": "2024_admision_titular_a_reading_2",
+          "title": "The Disappearance of Michael Rockefeller",
+          "file": "reading/2024/2024_admision_titular_a_reading_2.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2024_admision_titular_a_use",
+        "title": "Use of English – 2024 Admisión Titular A",
+        "file": "use_of_english/2024/2024_admision_titular_a_use.json"
+      }
+    },
+    {
+      "id": "2024_access_titular_b",
+      "year": 2024,
+      "label": "Convocatoria 2024 – Acceso Titular B",
+      "reading": [
+        {
+          "id": "2024_access_titular_b_reading_1",
+          "title": "The Ethics of True Crime",
+          "file": "reading/2024/2024_access_titular_b_reading_1.json"
+        },
+        {
+          "id": "2024_access_titular_b_reading_2",
+          "title": "Pomfret, Vermont: The Town That Went Viral",
+          "file": "reading/2024/2024_access_titular_b_reading_2.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2024_access_titular_b_use",
+        "title": "Use of English – 2024 – Acceso Titular B",
+        "file": "use_of_english/2024/2024_access_titular_b_use.json"
+      }
+    },
+    {
+      "id": "2024_admision_titular_b",
+      "year": 2024,
+      "label": "Convocatoria 2024 – Admisión Titular B",
+      "reading": [
+        {
+          "id": "2024_admision_titular_b_reading_1",
+          "title": "Iceland Elves: Real or Imaginary?",
+          "file": "reading/2024/2024_admision_titular_b_reading_1.json"
+        },
+        {
+          "id": "2024_admision_titular_b_reading_2",
+          "title": "Please Don’t Stop the Music",
+          "file": "reading/2024/2024_admision_titular_b_reading_2.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2024_admision_titular_b_use",
+        "title": "Use of English – 2024 – Admisión Titular B",
+        "file": "use_of_english/2024/2024_admision_titular_b_use.json"
+      }
+    },
+    {
+      "id": "2024_reserva_a",
+      "year": 2024,
+      "label": "Convocatoria 2024 – Reserva A",
+      "reading": [
+        {
+          "id": "2024_reserva_a_reading_1",
+          "title": "Saving Abu Simbel",
+          "file": "reading/2024/2024_reserva_a_reading_1.json"
+        },
+        {
+          "id": "2024_reserva_a_reading_2",
+          "title": "The Strength of Weak Social Ties",
+          "file": "reading/2024/2024_reserva_a_reading_2.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2024_reserva_a_use",
+        "title": "Use of English – 2024 – Reserva A",
+        "file": "use_of_english/2024/2024_reserva_a_use.json"
+      }
+    },
+    {
+      "id": "2024_reserva_b",
+      "year": 2024,
+      "label": "Convocatoria 2024 – Reserva B",
+      "reading": [
+        {
+          "id": "2024_reserva_b_reading_1",
+          "title": "Daylight Saving Time",
+          "file": "reading/2024/2024_reserva_b_reading_1.json"
+        },
+        {
+          "id": "2024_reserva_b_reading_2",
+          "title": "Juneteenth",
+          "file": "reading/2024/2024_reserva_b_reading_2.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2024_reserva_b_use",
+        "title": "Use of English – 2024 – Reserva B",
+        "file": "use_of_english/2024/2024_reserva_b_use.json"
+      }
+    },
+    {
+      "id": "2024_suplente_b",
+      "year": 2024,
+      "label": "Convocatoria 2024 – Suplente B",
+      "reading": [
+        {
+          "id": "2024_suplente_b_reading_1",
+          "title": "The 30-Million-Dollar Sandwich",
+          "file": "reading/2024/2024_suplente_b_reading_1.json"
+        },
+        {
+          "id": "2024_suplente_b_reading_2",
+          "title": "Your Nose Knows",
+          "file": "reading/2024/2024_suplente_b_reading_2.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2024_suplente_b_use",
+        "title": "Use of English – 2024 – Suplente B",
+        "file": "use_of_english/2024/2024_suplente_b_use.json"
+      }
+    },
+    {
+      "id": "2025_admision_titular_a",
+      "year": 2025,
+      "label": "Convocatoria 2025 – Admisión Titular A",
+      "reading": [
+        {
+          "id": "2025_admision_titular_a_reading",
+          "title": "Beyond the Stars",
+          "file": "reading/2025/2025_admision_titular_a_reading.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2025_admision_titular_a_use",
+        "title": "Use of English – 2025 Admisión Titular A",
+        "file": "use_of_english/2025/2025_admision_titular_a_use.json"
+      }
+    },
+    {
+      "id": "2025_access_titular_a",
+      "year": 2025,
+      "label": "Convocatoria 2025 – Acceso Titular A",
+      "reading": [
+        {
+          "id": "2025_access_titular_a_reading",
+          "title": "Dollar Princesses",
+          "file": "reading/2025/2025_access_titular_a_reading.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2025_access_titular_a_use",
+        "title": "Use of English – 2025 Acceso Titular A",
+        "file": "use_of_english/2025/2025_access_titular_a_use.json"
+      }
+    },
+    {
+      "id": "2025_access_titular_b",
+      "year": 2025,
+      "label": "Convocatoria 2025 – Acceso Titular B",
+      "reading": [
+        {
+          "id": "2025_access_titular_b_reading",
+          "title": "The Forgotten Habit of Two Sleeps",
+          "file": "reading/2025/2025_access_titular_b_reading.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2025_access_titular_b_use",
+        "title": "Use of English – 2025 Acceso Titular B",
+        "file": "use_of_english/2025/2025_access_titular_b_use.json"
+      }
+    },
+    {
+      "id": "2025_admision_titular_b",
+      "year": 2025,
+      "label": "Convocatoria 2025 – Admisión Titular B",
+      "reading": [
+        {
+          "id": "2025_admision_titular_b_reading",
+          "title": "Monsieur Tan-Tan",
+          "file": "reading/2025/2025_admision_titular_b_reading.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2025_admision_titular_b_use",
+        "title": "Use of English – 2025 Admisión Titular B",
+        "file": "use_of_english/2025/2025_admision_titular_b_use.json"
+      }
+    },
+    {
+      "id": "2025_suplente1_a",
+      "year": 2025,
+      "label": "Convocatoria 2025 – Suplente 1 A",
+      "reading": [
+        {
+          "id": "2025_suplente1_a_reading",
+          "title": "A Proper Halloween",
+          "file": "reading/2025/2025_suplente1_a_reading.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2025_suplente1_a_use",
+        "title": "Use of English – 2025 Suplente 1 A",
+        "file": "use_of_english/2025/2025_suplente1_a_use.json"
+      }
+    },
+    {
+      "id": "2025_suplente1_b",
+      "year": 2025,
+      "label": "Convocatoria 2025 – Suplente 1 B",
+      "reading": [
+        {
+          "id": "2025_suplente1_b_reading",
+          "title": "The Ingenious Story Behind Michelin Stars",
+          "file": "reading/2025/2025_suplente1_b_reading.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2025_suplente1_b_use",
+        "title": "Use of English – 2025 Suplente 1 B",
+        "file": "use_of_english/2025/2025_suplente1_b_use.json"
+      }
+    },
+    {
+      "id": "2025_suplente2_a",
+      "year": 2025,
+      "label": "Convocatoria 2025 – Suplente 2 A",
+      "reading": [
+        {
+          "id": "2025_suplente2_a_reading",
+          "title": "Conspiracy Theories",
+          "file": "reading/2025/2025_suplente2_a_reading.json"
+        }
+      ],
+      "useOfEnglish": {
+        "id": "2025_suplente2_a_use",
+        "title": "Use of English – 2025 Suplente 2 A",
+        "file": "use_of_english/2025/2025_suplente2_a_use.json"
+      }
+    }
+  ]
+}

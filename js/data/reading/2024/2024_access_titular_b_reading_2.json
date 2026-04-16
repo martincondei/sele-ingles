@@ -1,0 +1,144 @@
+{
+  "id": "2024_access_titular_b_reading_2",
+  "title": "Pomfret, Vermont: The Town That Went Viral",
+  "text": "With a mere handful of businesses, Pomfret, located in Vermont (US), is generally a quiet place. But in autumn, as “leaf- peepers” from everywhere descend on the region’s hills to witness its multicolored leaves, all that changes.\n\nEver since images of Sleepy Hollow Farm, a private property set on a rustic road, began going viral on social media a few years ago, locals say that things have gotten out of hand. A quick look on Instagram reveals thousands of images of the farm’s winding road lined by trees lit up in autumnal reds and pumpkin oranges. It’s no wonder then that this unlikely farm has become known as one of “the most photographed places in the state.”\n\nUnfortunately, social media influencers regularly climb over gates covered with “No Trespassing” signs, get their “city cars” stuck on the narrow country road, and leave bodily waste by the roadside. “It’s a hotel and amusement park —bring all your friends,” laughed out an Instagrammer with 20,000 followers.\n\n“It’s a beautiful spot. It’s too bad that it’s been ruined for everybody,” said Deborah Goodwin, a local councilwoman. “Tour buses are constantly unloading crowds of people out there. We can’t have this anymore.” In 2022, town officials finally voted to close the roads leading to the farm to non-residents during the autumn season, which annoyed the travelers who had come hoping to capture a perfect autumnal photo.\n\n“We enjoy having tourists. It’s a big part of the Vermont economy, and we want people to enjoy its bucolic beauty and visit the shops,” Goodwin says. Her call is for responsible tourism that enjoys Pomfret’s beauty without ruining what makes it special —its peaceful charm.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, Pomfret has...",
+      "options": {
+        "A": "always been a top tourist destination",
+        "B": "become an attraction due to media exposure",
+        "C": "been closed to tourists for economic reasons",
+        "D": "improved the tourist offer in autumn"
+      },
+      "answer": [
+        "B"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, “leaf-peepers” are...",
+      "options": {
+        "A": "visitors who love the colorful autumn countryside",
+        "B": "business owners who promote sustainable tourism",
+        "C": "tourists who are in favor of the recent ban",
+        "D": "councilors who welcome rural tourism"
+      },
+      "answer": [
+        "A"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "There are plenty of stores and shops in Pomfret",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "With a mere handful of businesses, Pomfret, located in Vermont US, is generally a quiet place.",
+          "lines": [
+            1
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "Local residents’ privacy is often invaded by photo seekers",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Unfortunately, social media influencers regularly climb over gates covered with ‘No Trespassing’ signs, get their ‘city cars’ stuck on the narrow country road, and leave bodily waste by the roadside.",
+          "lines": [
+            7,
+            8
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "Tourists are understanding about the prohibition to drive to the farm",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "In 2022, town officials finally voted to close the roads leading to the farm to non-residents during the autumn season, which annoyed the travelers who had come hoping to capture a perfect autumnal photo.",
+          "lines": [
+            11,
+            13
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "Pomfret welcomes holidaymakers who respect its essence",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Her call is for responsible tourism that enjoys Pomfret’s beauty without ruining what makes it special —its peaceful charm.",
+          "lines": [
+            15,
+            16
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [],
+      "line": null,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "narrow"
+      ],
+      "line": 8,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [
+        "climb"
+      ],
+      "line": 7,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [],
+      "line": 11,
+      "points": 0.25
+    }
+  ]
+}
