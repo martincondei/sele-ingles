@@ -1,0 +1,204 @@
+{
+  "id": "2025_admision_titular_b_use",
+  "year": 2025,
+  "title": "Use of English – 2025 Admisión Titular B",
+  "points": {
+    "total": 3,
+    "perQuestion": 0.5
+  },
+  "hasBlocks": true,
+  "blockRules": {
+    "mustChooseOne": true,
+    "questionsPerBlock": 6
+  },
+  "blocks": [
+    {
+      "id": "option_1",
+      "label": "Option 1",
+      "questionIds": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ]
+    },
+    {
+      "id": "option_2",
+      "label": "Option 2",
+      "questionIds": [
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "B1",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Adriana’s performance wasn’t as impressive as Julia’s.",
+      "instruction": "Julia’s performance...",
+      "answers": [
+        "Julia’s performance was more impressive than Adriana’s"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Mike is so unfit because he never does any exercise.",
+      "instruction": "If Mike...",
+      "answers": [
+        "If Mike did exercise, he wouldn't be so unfit.",
+        "If Mike did some exercise, he wouldn't be so unfit.",
+        "If Mike did exercise, he would not be so unfit.",
+        "If Mike did some exercise, he would not be so unfit.",
+        "If Mike did exercise, he'd be so unfit.",
+        "If Mike did some exercise, he'd be so unfit.",
+        "If Mike did exercise, he would be fit.",
+        "If Mike did some exercise, he would be fit.",
+        "If Mike did exercise, he would be fitter.",
+        "If Mike did some exercise, he would be fitter.",
+        "If Mike did exercise, he'd be fit.",
+        "If Mike did some exercise, he'd be fit.",
+        "If Mike did exercise, he'd be fitter.",
+        "If Mike did some exercise, he'd be fitter."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B3",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I have arranged to have lunch with Joyce today.",
+      "instruction": "I am...",
+      "answers": [
+        "I am having lunch with Joyce today.",
+        "I'm having lunch with Joyce today.",
+        "I am going to have lunch with Joyce today.",
+        "I'm going to have lunch with Joyce today."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B4",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "The babysitter takes care of Tommy in the afternoon.",
+      "instruction": "(LOOKS)",
+      "answers": [
+        "The babysitter looks after Tommy in the afternoon"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B5",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "They were painting the house while we were away on holiday.",
+      "instruction": "(PAINTED)",
+      "answers": [
+        "The house was being painted while we were away on holiday.",
+        "We were having our house painted while we were away on holiday.",
+        "We were getting our house painted while we were away on holiday."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B6",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "You’ve been laughing at Sam’s little brother.",
+      "instruction": "The person whom...",
+      "answers": [
+        "The person whom you have been laughing at is Sam's little brother.",
+        "The person whom you have been laughing at was Sam's little brother.",
+        "The person whom you've been laughing at is Sam's little brother.",
+        "The person whom you've been laughing at was Sam's little brother."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B7",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "‘I must hide Jane’s birthday present before she gets home,’ Karen said.",
+      "instruction": "(HAD)",
+      "answers": [
+        "Karen said that she had to hide Jane's birthday present before she got home."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B8",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "John is an only child.",
+      "instruction": "John hasn’t...",
+      "answers": [
+        "John hasn’t got any brothers",
+        "John has not got any brothers",
+        "John hasn’t got any brothers or sisters",
+        "John has not got any brothers or sisters",
+        "John hasn’t got any siblings",
+        "John has not got any siblings"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B9",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "The microwave was so heavy that I needed help to carry it.",
+      "instruction": "It was...",
+      "answers": [
+        "It was such a heavy microwave that I needed help to carry it."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B10",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "The six o’clock train to Brighton couldn’t leave because there was a storm.",
+      "instruction": "(DUE)",
+      "answers": [
+        "The six o'clock train to Brighton couldn't leave due to a storm.",
+        "The six o'clock train to Brighton could not leave due to a storm.",
+        "Due to a storm, the six o'clock train to Brighton couldn't leave.",
+        "Due to a storm, the six o'clock train to Brighton could not leave."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B11",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Perhaps they didn’t hear the good news last night.",
+      "instruction": "(MIGHT)",
+      "answers": [
+        "They might not have heard the good news last night.",
+        "They mightn't have heard the good news last night."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B12",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Houdini was believed to be a fabulous magician.",
+      "instruction": "People...",
+      "answers": [
+        "People believed that Houdini was a fabulous magician."
+      ],
+      "points": 0.5
+    }
+  ]
+}

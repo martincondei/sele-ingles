@@ -1,0 +1,203 @@
+{
+  "id": "2025_suplente2_a_use",
+  "year": 2025,
+  "title": "Use of English – 2025 Suplente 2 A",
+  "points": {
+    "total": 3,
+    "perQuestion": 0.5
+  },
+  "hasBlocks": true,
+  "blockRules": {
+    "mustChooseOne": true,
+    "questionsPerBlock": 6
+  },
+  "blocks": [
+    {
+      "id": "option_1",
+      "label": "Option 1",
+      "questionIds": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ]
+    },
+    {
+      "id": "option_2",
+      "label": "Option 2",
+      "questionIds": [
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "B1",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I can’t contact David because he doesn’t have a phone.",
+      "instruction": "If...",
+      "answers": [
+        "If David had a phone, I could contact him",
+        "If David had a phone, I would contact him",
+        "If David had a phone, I'd contact him",
+        "If David had a phone, I would be able to contact him",
+        "If David had a phone, I'd be able to contact him"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Although Erika was really ill, she attended the meeting.",
+      "instruction": "Despite...",
+      "answers": [
+        "Despite being really ill, Erika attended the meeting",
+        "Despite her being really ill, Erika attended the meeting",
+        "Despite the fact that she was really ill, Erika attended the meeting",
+        "Despite her severe illness, Erika attended the meeting"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B3",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "It may be cold later, so take a jacket with you.",
+      "instruction": "In case...",
+      "answers": [
+        "In case it is cold later, take a jacket with you",
+        "In case it's cold later, take a jacket with you",
+        "In case it gets cold later, take a jacket with you",
+        "In case it gets colder later, take a jacket with you",
+        "In case it is cold later, take a jacket",
+        "In case it's cold later, take a jacket",
+        "In case it gets cold later, take a jacket",
+        "In case it gets colder later, take a jacket"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B4",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I am sure that he wasn’t at home during the fire.",
+      "instruction": "(CAN’T)",
+      "answers": [
+        "He can’t have been at home during the fire"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B5",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "You can already buy the tickets for the show.",
+      "instruction": "The tickets...",
+      "answers": [
+        "The tickets for the show can already be bought",
+        "The tickets for the show are already on sale",
+        "The tickets for the show are already available"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B6",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "This olive oil company employs about 5,000 people and has announced plans to increase the number of factories.",
+      "instruction": "(WHICH)",
+      "answers": [
+        "This olive oil company, which employs about 5,000 people, has announced plans to increase the number of factories",
+        "This olive oil company, which has announced plans to increase the number of factories, employs about 5,000 people"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B7",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "‘Please, don’t use AI to complete your project,’ our teacher told us.",
+      "instruction": "(ASKED)",
+      "answers": [
+        "Our teacher asked us not to use AI to complete our project"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B8",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "The bus was delayed as it was snowing heavily.",
+      "instruction": "(DUE)",
+      "answers": [
+        "The bus was delayed due to the heavy snow",
+        "The bus was delayed due to the fact that it was snowing heavily",
+        "The bus was delayed due to it snowing heavily"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B9",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I started doing lettering a year ago.",
+      "instruction": "(FOR)",
+      "answers": [
+        "I have been doing lettering for a year",
+        "I've been doing lettering for a year",
+        "I have been doing lettering for one year",
+        "I've been doing lettering for one year",
+        "I have done lettering for a year",
+        "I've done lettering for a year",
+        "I have done lettering for one year",
+        "I've done lettering for one year"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B10",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Electric scooters are much cheaper nowadays than a few years back.",
+      "instruction": "(USED)",
+      "answers": [
+        "Electric scooters used to be much more expensive a few years ago",
+        "Electric scooters used to be more expensive a few years ago"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B11",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I’m sorry I didn’t pay attention to what you said.",
+      "instruction": "If only...",
+      "answers": [
+        "If only I had paid attention to what you said",
+        "If only I'd paid attention to what you said"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B12",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "You and I have the same outfit.",
+      "instruction": "(AS)",
+      "answers": [
+        "Your outfit is the same as mine",
+        "My outfit is the same as yours"
+      ],
+      "points": 0.5
+    }
+  ]
+}

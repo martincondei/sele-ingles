@@ -1,0 +1,199 @@
+{
+  "id": "2025_access_titular_a_use",
+  "year": 2025,
+  "title": "Use of English – 2025 Acceso Titular A",
+  "points": {
+    "total": 3,
+    "perQuestion": 0.5
+  },
+  "hasBlocks": true,
+  "blockRules": {
+    "mustChooseOne": true,
+    "questionsPerBlock": 6
+  },
+  "blocks": [
+    {
+      "id": "option_1",
+      "label": "Option 1",
+      "questionIds": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ]
+    },
+    {
+      "id": "option_2",
+      "label": "Option 2",
+      "questionIds": [
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "B1",
+      "type": "text",
+      "task": "conditional",
+      "prompt": "I didn’t tell you because I wasn’t sure.",
+      "instruction": "If...",
+      "answers": [
+        "If I had been sure, I would have told you.",
+        "If I'd been sure, I would have told you.",
+        "If I had been sure, I'd have told you.",
+        "If I'd been sure, I'd have told you.",
+        "If I had been sure, I would've told you.",
+        "If I'd been sure, I would've told you.",
+        "If I had been sure, I'd've told you.",
+        "If I'd been sure, I'd've told you."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "The laundry is too wet to be taken off the clothesline.",
+      "instruction": "The laundry isn’t...",
+      "answers": [
+        "The laundry is not dry enough to be taken off the clothesline.",
+        "The laundry isn't dry enough to be taken off the clothesline."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B3",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I would prefer not to go on the field trip.",
+      "instruction": "(RATHER)",
+      "answers": [
+        "I would rather not go on the field trip.",
+        "I'd rather not go on the field trip."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B4",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "They can’t leave the class unless the teacher gives them permission.",
+      "instruction": "(ALLOWED)",
+      "answers": [
+        "They are not allowed to leave the class unless the teacher gives them permission.",
+        "They aren't allowed to leave the class unless the teacher gives them permission.",
+        "They are not allowed to leave the class unless the teacher gives them permission.",
+        "They aren't allowed to leave the class unless the teacher gives them permission.",
+        "They are not allowed to leave the class if the teacher does not give them permission.",
+        "They aren't allowed to leave the class if the teacher does not give them permission.",
+        "They are not allowed to leave the class if the teacher doesn't give them permission.",
+        "They aren't allowed to leave the class if the teacher doesn't give them permission."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B5",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I think they should go home.",
+      "instruction": "I think it’s time...",
+      "answers": [
+        "I think it is time they went home.",
+        "I think it's time they went home.",
+        "I think it is time for them to go home.",
+        "I think it's time for them to go home."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B6",
+      "type": "text",
+      "task": "passive",
+      "prompt": "They consider that Manuel is an expert on manga.",
+      "instruction": "Manuel...",
+      "answers": [
+        "Manuel is considered to be an expert on manga.",
+        "Manuel's considered to be an expert on manga.",
+        "Manuel is considered an expert on manga.",
+        "Manuel's considered an expert on manga."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B7",
+      "type": "text",
+      "task": "direct_speech",
+      "prompt": "He wondered why Lisa was so curious about stick insects.",
+      "instruction": "‘Why...",
+      "answers": [
+        "Why is Lisa so curious about stick insects? he wondered.",
+        "Why's Lisa so curious about stick insects? he wondered."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B8",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Let’s go to Scotland next summer for a vacation.",
+      "instruction": "How...",
+      "answers": [
+        "How about going to Scotland next summer for a vacation"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B9",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Alice hasn’t smoked for three months.",
+      "instruction": "Alice gave...",
+      "answers": [
+        "Alice gave up smoking three months ago"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B10",
+      "type": "text",
+      "task": "causative",
+      "prompt": "Urban Flora sometimes delivers gardenia bouquets to Anna.",
+      "instruction": "Anna sometimes gets...",
+      "answers": [
+        "Anna sometimes gets gardenia bouquets delivered by Urban Flora"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B11",
+      "type": "text",
+      "task": "comparison",
+      "prompt": "Alina cannot speak English as well as Dimitri.",
+      "instruction": "Dimitri...",
+      "answers": [
+        "Dimitri speaks English better than Alina",
+        "Dimitri speaks better English than Alina"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B12",
+      "type": "text",
+      "task": "conditional",
+      "prompt": "Masha will be disappointed if she doesn’t get top marks in the exam.",
+      "instruction": "Unless...",
+      "answers": [
+        "Unless Masha gets top marks in the exam, she will be disappointed",
+        "Unless Masha gets top marks in the exam, she'll be disappointed"
+      ],
+      "points": 0.5
+    }
+  ]
+}

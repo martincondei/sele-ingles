@@ -1,0 +1,221 @@
+{
+  "id": "2025_access_titular_b_use",
+  "year": 2025,
+  "title": "Use of English – 2025 Acceso Titular B",
+  "points": {
+    "total": 3,
+    "perQuestion": 0.5
+  },
+  "hasBlocks": true,
+  "blockRules": {
+    "mustChooseOne": true,
+    "questionsPerBlock": 6
+  },
+  "blocks": [
+    {
+      "id": "option_1",
+      "label": "Option 1",
+      "questionIds": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ]
+    },
+    {
+      "id": "option_2",
+      "label": "Option 2",
+      "questionIds": [
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "B1",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I’ve never been to a more interesting city than London.",
+      "instruction": "The most...",
+      "answers": [
+        "The most interesting city I have been to is London.",
+        "The most interesting city I've been to is London.",
+        "The most interesting city I have ever been to is London.",
+        "The most interesting city I've ever been to is London."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B2",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "If he doesn’t wear a hat, he’ll get sunburned.",
+      "instruction": "Unless...",
+      "answers": [
+        "Unless he wears a hat, he will get sunburned",
+        "Unless he wears a hat, he'll get sunburned"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B3",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Even though he had a good job, he wasn’t happy.",
+      "instruction": "In spite of...",
+      "answers": [
+        "In spite of having a good job, he was not happy.",
+        "In spite of having a good job, he wasn't happy.",
+        "In spite of the fact that he had a good job, he was not happy.",
+        "In spite of the fact that he had a good job, he wasn't happy.",
+        "In spite of his good job, he was not happy.",
+        "In spite of his good job, he wasn't happy."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B4",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "No foreign languages are required for this job.",
+      "instruction": "(NEEDN’T)",
+      "answers": [
+        "You need not speak a foreign language for this job.",
+        "You needn't speak a foreign language for this job.",
+        "You do not need to speak a foreign language for this job.",
+        "You don't need to speak a foreign language for this job.",
+        "You need not speak any foreign language for this job.",
+        "You needn't speak any foreign language for this job.",
+        "You do not need to speak any foreign language for this job.",
+        "You don't need to speak any foreign language for this job.",
+        "You need not speak foreign languages for this job.",
+        "You needn't speak foreign languages for this job.",
+        "You do not need to speak foreign languages for this job.",
+        "You don't need to speak foreign languages for this job."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B5",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "When I dance flamenco, I feel happy.",
+      "instruction": "(MAKES)",
+      "answers": [
+        "Dancing flamenco makes me feel happy.",
+        "Dancing flamenco makes me happy."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B6",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "Vince’s photographs are being shown at the exhibition.",
+      "instruction": "They...",
+      "answers": [
+        "They are showing Vince's photographs at the exhibition.",
+        "They're showing Vince's photographs at the exhibition."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B7",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "If I were you, I would eat healthier food.",
+      "instruction": "You had...",
+      "answers": [
+        "You had better eat healthier food.",
+        "You'd better eat healthier food."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B8",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "The groom didn’t buy the engagement ring because it was really expensive.",
+      "instruction": "(SUCH)",
+      "answers": [
+        "It was such an expensive engagement ring that the groom did not buy it.",
+        "It was such an expensive engagement ring that the groom didn't buy it.",
+        "It was such an expensive engagement ring that the groom could not buy it.",
+        "It was such an expensive engagement ring that the groom couldn't buy it."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B9",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I was promoted in 2021.",
+      "instruction": "2021 was the...",
+      "answers": [
+        "2021 was the year in which I was promoted.",
+        "2021 was the year when I was promoted.",
+        "2021 was the year that I was promoted."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B10",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "My brother asked me if he could borrow $50 until the following Friday.",
+      "instruction": "‘Can...",
+      "answers": [
+        "‘Can I borrow $50 until next Friday?’ my brother asked me.",
+        "‘Can you lend me $50 until next Friday?’ my brother asked me."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B11",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "My parents will celebrate their twenty-fifth wedding anniversary in November.",
+      "instruction": "By the end of the year, ...",
+      "answers": [
+        "By the end of the year, my parents will have celebrated their twenty-fifth anniversary.",
+        "By the end of the year, my parents'll have celebrated their twenty-fifth anniversary.",
+        "By the end of the year, my parents will have been married for twenty-five years.",
+        "By the end of the year, my parents'll have been married for twenty-five years."
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B12",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I wish you had met my Erasmus mates.",
+      "instruction": "It’s a pity...",
+      "answers": [
+        "It is a pity that you have not met my Erasmus mates.",
+        "It's a pity that you have not met my Erasmus mates.",
+        "It is a pity that you haven't met my Erasmus mates.",
+        "It's a pity that you haven't met my Erasmus mates.",
+        "It is a pity you have not met my Erasmus mates.",
+        "It's a pity you have not met my Erasmus mates.",
+        "It is a pity you haven't met my Erasmus mates.",
+        "It's a pity you haven't met my Erasmus mates.",
+        "It is a pity that you did not meet my Erasmus mates.",
+        "It's a pity that you did not meet my Erasmus mates.",
+        "It is a pity that you didn't meet my Erasmus mates.",
+        "It's a pity that you didn't meet my Erasmus mates.",
+        "It is a pity you did not meet my Erasmus mates.",
+        "It's a pity you did not meet my Erasmus mates.",
+        "It is a pity you didn't meet my Erasmus mates.",
+        "It's a pity you didn't meet my Erasmus mates."
+      ],
+      "points": 0.5
+    }
+  ]
+}

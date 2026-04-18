@@ -1,0 +1,225 @@
+{
+  "id": "2024_access_titular_a_use",
+  "year": 2024,
+  "title": "Use of English – 2024 Acceso Titular A",
+  "points": {
+    "total": 3,
+    "perQuestion": 0.5
+  },
+  "hasBlocks": true,
+  "blockRules": {
+    "mustChooseOne": true,
+    "questionsPerBlock": 6
+  },
+  "blocks": [
+    {
+      "id": "block_1",
+      "label": "Bloque 1",
+      "questionIds": [
+        "B17.1",
+        "B17.2",
+        "B19",
+        "B21",
+        "B23",
+        "B25",
+        "B27"
+      ]
+    },
+    {
+      "id": "block_2",
+      "label": "Bloque 2",
+      "questionIds": [
+        "B18.1",
+        "B18.2",
+        "B20",
+        "B22",
+        "B24",
+        "B26",
+        "B28"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "B17.1",
+      "type": "text",
+      "task": "verb_form",
+      "prompt": "Please, let me ... when you are coming.",
+      "instruction": "(know)",
+      "answers": [
+        "know"
+      ],
+      "points": 0.25,
+      "groupId": "B17"
+    },
+    {
+      "id": "B17.2",
+      "type": "text",
+      "task": "verb_form",
+      "prompt": "When you arrived, we ...",
+      "instruction": "(already / leave)",
+      "answers": [
+        "had already left"
+      ],
+      "points": 0.25,
+      "groupId": "B17"
+    },
+    {
+      "id": "B18.1",
+      "type": "mcq",
+      "prompt": "Neither Tom ... Claire came to the meeting.",
+      "options": {
+        "A": "nor",
+        "B": "or",
+        "C": "either",
+        "D": "neither"
+      },
+      "answer": [
+        "A"
+      ],
+      "points": 0.25,
+      "groupId": "B18"
+    },
+    {
+      "id": "B18.2",
+      "type": "mcq",
+      "prompt": "You need to follow the recipe step ... step.",
+      "options": {
+        "A": "at",
+        "B": "by",
+        "C": "on",
+        "D": "for"
+      },
+      "answer": [
+        "B"
+      ],
+      "points": 0.25,
+      "groupId": "B18"
+    },
+    {
+      "id": "B19",
+      "type": "text",
+      "task": "active_voice",
+      "prompt": "The accident has been caused by a driver using a mobile phone.",
+      "instruction": "Turn into the active voice.",
+      "answers": [
+        "A driver using a mobile phone has caused the accident"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B20",
+      "type": "text",
+      "task": "passive",
+      "prompt": "Is somebody going to order the pizzas in the end?",
+      "instruction": "Turn into the passive voice.",
+      "answers": [
+        "Are the pizzas going to be ordered in the end"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B21",
+      "type": "text",
+      "task": "wh_question",
+      "prompt": "They sold Anna’s car in just one week.",
+      "instruction": "Give a question for the underlined words.",
+      "underlinedWords": "Anna’s",
+      "answers": [
+        "Whose car did they sell in just one week"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B22",
+      "type": "text",
+      "task": "relative",
+      "prompt": "Detroit is the city. They lived there when they were young.",
+      "instruction": "Join using a relative.",
+      "answers": [
+        "Detroit is the city where they lived when they were young",
+        "Detroit is the city in which they lived when they were young"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B23",
+      "type": "text",
+      "task": "rewrite",
+      "prompt": "I’d rather you didn’t stay long at the party.",
+      "instruction": "You had...",
+      "answers": [
+        "You had better not stay long at the party",
+        "You'd better not stay long at the party",
+        "You would better not stay long at the party"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B24",
+      "type": "text",
+      "task": "conditional",
+      "prompt": "Unless Jake finds a proper solution, ...",
+      "instruction": "Complete the conditional sentence.",
+      "answers": [],
+      "points": 0.5,
+      "manualCorrection": {
+        "prompt": "¿Tu respuesta cumple esta estructura?",
+        "structure": "subject + will / can / may + infinitive // subject + present simple"
+      }
+    },
+    {
+      "id": "B25",
+      "type": "text",
+      "task": "error_correction",
+      "prompt": "Despite of the challenges, we managed completing the project on time.",
+      "instruction": "Find the mistakes and rewrite correctly.",
+      "answers": [
+        "Despite the challenges, we managed to complete the project on time"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B26",
+      "type": "text",
+      "task": "direct_speech",
+      "prompt": "The policewoman asked to see my driving license.",
+      "instruction": "Turn into direct speech.",
+      "answers": [
+        "Can I see your driving license, please",
+        "Could I see your driving license, please",
+        "May I see your driving license, please"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B27",
+      "type": "text",
+      "task": "reported_speech",
+      "prompt": "'I must return the car to my father next weekend,' Paul said.",
+      "instruction": "Turn into reported speech.",
+      "answers": [
+        "Paul said that he had to return the car to his father the following weekend",
+        "Paul said that he would to return the car to his father the following weekend",
+        "Paul said he had to return the car to his father the following weekend",
+        "Paul said he would to return the car to his father the following weekend",
+        "Paul said that he had to return the car to his father the weekend after",
+        "Paul said that he would to return the car to his father the weekend after",
+        "Paul said he had to return the car to his father the weekend after",
+        "Paul said he would to return the car to his father the weekend after"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "B28",
+      "type": "text",
+      "task": "word_order",
+      "prompt": "Use the words in the boxes to make a meaningful sentence. Use all and only the words in the boxes without changing their form.",
+      "instruction": "Words: should / apple / for / be / the / everyone / bakery / enough / at / pie / there",
+      "answers": [
+        "There should be enough apple pie for everyone at the bakery"
+      ],
+      "points": 0.5
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "id": "2025_access_titular_b_reading",
+  "title": "The Forgotten Habit of Two Sleeps",
+  "text": "For millennia, people slept in two shifts between nightfall and dawn. But why did this habit disappear?\n\nOn 13 April 1699, in northern England, nine-year-old Jane Rowth and her mother woke up from their first sleep of the evening, just before two men came to their window. Mrs. Rowth whispered to Jane to stay quiet and promised to return in the morning, but she never came back; she was later found murdered. This story struck historian Roger Ekirch when he discovered Jane’s testimony in the judicial archives in the early 1990s, where she casually referenced her “first sleep.”\n\nIntrigued, Ekirch researched the phenomenon of biphasic sleep, finding that it was widely practiced throughout the preindustrial world. References to first and second sleeps appeared in various texts, including Chaucer’s The Canterbury Tales and works by notable figures such as Plutarch and Virgil. The habit was not limited to England; it appeared in cultures across Africa, South America, and Asia. The system of two sleeps was around for centuries, with the first mention dating back to the 8th century BC in Homer’s Odyssey. Evidence of biphasic sleep can be found throughout history. For example, Christian monks adopted it for prayers in the 6th century.\n\nIn the 17th century, a typical night involved going to bed from 9:00 to 11:00 pm, with people sleeping in shared spaces. Then, they would naturally wake up for a period known as the watch, which lasted until about 1:00 am. The watch was used for various activities, including household chores, socializing, and even sexual intimacy. This interval was also often a time for reflection, prayer, or simply chatting with bed companions.\n\nEkirch’s research reached a crucial moment in 1995 when he read about a sleep experiment by Thomas Wehr. The study involved men who, after weeks of limited light exposure, reverted to biphasic sleep, confirming Ekirch’s hypothesis about the biological basis for this practice. More recent studies, including one in Madagascar, found that certain communities still follow biphasic sleep patterns.\n\nThe shift away from this natural rhythm began with the Industrial Revolution, which introduced artificial lighting and altered diurnal rhythms, leading to the consolidation of sleep into a single uninterrupted period. Although we may have lost the social and philosophical aspects of biphasic sleep, modern conditions provide a different but arguably healthier sleeping experience.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, Mrs. Rowth...",
+      "options": {
+        "A": "was found dead by her daughter",
+        "B": "left her daughter unsupervised",
+        "C": "told her daughter to go back to sleep",
+        "D": "left in the morning"
+      },
+      "answer": [
+        "B"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, two-phase sleep...",
+      "options": {
+        "A": "was adopted for safety reasons",
+        "B": "was not documented until Ekirch’s study",
+        "C": "did not affect family interaction",
+        "D": "was affected by the Industrial Revolution"
+      },
+      "answer": [
+        "D"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "Ekirch found Jane’s testimony while he tried to prove his theory of two sleeps.",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "This story struck historian Roger Ekirch when he discovered Jane’s testimony in the judicial archives in the early 1990s, (where she casually referenced her ‘first sleep’)",
+          "lines": [
+            5,
+            6
+          ],
+          "validTexts": [
+            "This story struck historian Roger Ekirch when he discovered Jane’s testimony in the judicial archives in the early 1990s, where she casually referenced her ‘first sleep’",
+            "This story struck historian Roger Ekirch when he discovered Jane’s testimony in the judicial archives in the early 1990s"
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "The two-phase sleep facilitated the performance of monastic duties.",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "(For example,) Christian monks adopted it for prayers in the 6th century.",
+          "lines": [
+            12,
+            13
+          ],
+          "validTexts": [
+            "Christian monks adopted it for prayers in the 6th century",
+            "For example, Christian monks adopted it for prayers in the 6th century."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "The first period of sleep was commonly referred to as the watch.",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "Then, they would naturally wake up for a period known as the watch, (which lasted until about 1:00 am).",
+          "lines": [
+            15,
+            16
+          ],
+          "validTexts": [
+            "Then, they would naturally wake up for a period known as the watch, which lasted until about 1:00 am.",
+            "Then, they would naturally wake up for a period known as the watch"
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "The two-phase sleep required domestic tasks to be done after sunrise.",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "The watch was used for various activities, including household chores (, socializing, and even sexual intimacy).",
+          "lines": [
+            16,
+            17
+          ],
+          "validTexts": [
+            "The watch was used for various activities, including household chores",
+            "The watch was used for various activities, including household chores, socializing, and even sexual intimacy."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM FOR: “murmur” (verb).",
+      "answer": [
+        "whisper",
+        "whispered",
+        "whisper(ed)"
+      ],
+      "line": 3,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM FOR: “mate” (noun).",
+      "answer": [
+        "companion",
+        "companions",
+        "companion(s)"
+      ],
+      "line": 15,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: “a formal statement or account given as evidence to support a fact or claim.”",
+      "answer": [
+        "testimony"
+      ],
+      "line": 4,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: “to engage in informal conversation, typically in a relaxed or friendly manner.”",
+      "answer": [
+        "chat",
+        "chatting",
+        "chat(ting)"
+      ],
+      "line": 15,
+      "points": 0.25
+    }
+  ]
+}

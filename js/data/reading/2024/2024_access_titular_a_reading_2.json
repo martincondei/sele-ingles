@@ -1,0 +1,175 @@
+{
+  "id": "2024_access_titular_a_reading_2",
+  "title": "Charles Dickens",
+  "text": "Charles Dickens is one of the greatest writers in English literature. His stories such as Great Expectations and Oliver Twist continue to shape the way in which we understand nineteenth-century England.\n\nForget the idea that Dickens was always a rich, benevolent gentleman. His family moved around a lot in Dickens’s youth, from Portsmouth to Kent, and from there to London. Dickens’s father was getting deeper and deeper into debt, and the family were literally running away from their creditors. When he was 12, Dickens was sent to live with a family friend and to work at Warren’s shoe polish factory. In his youth, Dickens thought of becoming an actor. However, he fell in love with a woman whose parents were middle-class and disapproved of her association with an aspiring actor —actors being seen as of a low social status at the time.\n\nOnce he was a famous writer, Dickens became a well-known philanthropist who committed himself to many charities, particularly focusing on issues of child poverty and education. On the same altruistic note, Dickens was also the editor of m agazines\n\nthat, at popular prices, brought literature to everybody. They featured stories by different writers, established novelists, including himself, and also women, like the first salaried female journalist, Eliza Lynn Linton.\n\nDickens wrote A Christmas Carol rapidly, taking just six weeks from beginning to end. He was forced to pay half the publication costs himself as his publishers failed to see the value of a Christmas story. Ironically, it’s never been out of print since its publication in 1843 and it’s been considered one of Dickens’s finest literary achievements, as well as an inspiration for numerous films.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "As an editor, Charles Dickens...",
+      "options": {
+        "A": "published some stories written by women",
+        "B": "focused on promising new writers",
+        "C": "was seeking to make a lot of money",
+        "D": "published stories about working women"
+      },
+      "answer": [
+        "A"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, A Christmas Carol...",
+      "options": {
+        "A": "was seen as a great story by publishers",
+        "B": "was quite hard to write",
+        "C": "had to be co-financed by Dickens himself",
+        "D": "is claimed to be a minor work"
+      },
+      "answer": [
+        "C"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "The Dickenses had a hard time due to the father’s spending habits",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Dickens’s father was getting deeper and deeper into debt, and the family were literally running away from their creditors.",
+          "lines": [
+            4,
+            5
+          ],
+          "validTexts": [
+            "Dickens’s father was getting deeper and deeper into debt, and the family were literally running away from their creditors."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "Dickens did not have experience as a manual worker",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "(When he was 12,) Dickens was sent to (live with a family friend, and to) work at Warren’s shoe polish factory.",
+          "lines": [
+            5,
+            6
+          ],
+          "validTexts": [
+            "When he was 12, Dickens was sent to live with a family friend, and to work at Warren’s shoe polish factory.",
+            "When he was 12, Dickens was sent to work at Warren’s shoe polish factory.",
+            "Dickens was sent to live with a family friend, and to work at Warren’s shoe polish factory.",
+            "Dickens was sent to work at Warren’s shoe polish factory."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "Actors were well regarded in Dickens’s times",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "(However, he fell in love with a woman whose parents were middle-class and disapproved of her association with an aspiring actor) —actors being seen as of a low social status at the time.",
+          "lines": [
+            6,
+            7
+          ],
+          "validTexts": [
+            "However, he fell in love with a woman whose parents were middle-class and disapproved of her association with an aspiring actor —actors being seen as of a low social status at the time.",
+            "—actors being seen as of a low social status at the time."
+        
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "Dickens supported numerous good causes",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "(Once he was a famous writer,) Dickens became a well-known philanthropist who committed himself to many charities, (particularly focusing on issues of child poverty and education.)",
+          "lines": [
+            8,
+            9
+          ],
+          "validTexts": [
+            "Once he was a famous writer, Dickens became a well-known philanthropist who committed himself to many charities , particularly focusing on issues of child poverty and education.",
+            "Once he was a famous writer, Dickens became a well-known philanthropist who committed himself to many charities",
+            "Dickens became a well-known philanthropist who committed himself to many charities",
+            "Dickens became a well-known philanthropist who committed himself to many charities, particularly focusing on issues of child poverty and education."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE OPPOSITE FOR: “consent” (verb).",
+      "answer": [
+        "disapprove",
+        "disapproved",
+        "disapprove(d)"
+      ],
+      "line": 7,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE OPPOSITE FOR: “wealth” (noun).",
+      "answer": [
+        "poverty"
+      ],
+      "line": 9,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: “something done successfully with effort, skill or courage.”",
+      "answer": [
+        "achievement",
+        "achievements",
+        "achievement(s)"
+      ],
+      "line": 14,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: “a person to whom money is owed.”",
+      "answer": [
+        "creditor",
+        "creditors",
+        "creditor(s)"
+      ],
+      "line": 5,
+      "points": 0.25
+    }
+  ]
+}

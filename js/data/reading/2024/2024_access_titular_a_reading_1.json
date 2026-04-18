@@ -1,0 +1,161 @@
+{
+  "id": "2024_access_titular_a_reading_1",
+  "title": "Young People’S Screen Time",
+  "text": "As we can attest from firsthand experience, regular TV viewership has been decreasing as streaming services like Netflix are becoming increasingly popular. The amount of time kids and teens spend watching TV has dropped. In 2013, young people spent an average of 3 hours per day in front of the television screen; today, it’s an hour and 12 minutes. So, have youth reduced their screen time? Not really. Studies show that they have rather traded the TV screen for their phone and laptop. Now the average youth watches 97 minutes of YouTube and 95 minutes of TikTok per day.\n\nA few years ago, two Oxford researchers captured the media’s attention by concluding that screen time was as bad for teen mental health as... potatoes! Their paper even stated that social media had no psychological negative effects. However, most evidence points to the contrary. Two Spanish researchers argued that the Oxford study’s conclusions were “extremely misleading”, after they found that the use of social media was strongly linked to mental health issues, while TV and gaming were only weakly related. Other studies confirmed this and added that the worst effects impacted girls 50% more than boys.\n\nIt’s time to abandon the idea that screen time doesn’t matter for mental health. It does. It’s just that some screen time matters more than others. Social media seems the most problematic. For practical purposes, that’s good news. Parents, policymakers, and teens themselves don’t need to consider giving up technology; instead, they can focus on cutting back on social media time. There are other ways teens can stay in touch with friends virtually, like texting, gaming together or meeting on FaceTime or Zoom.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, young people today...",
+      "options": {
+        "A": "watch Netflix more than other age groups",
+        "B": "use multiple devices for entertainment",
+        "C": "prefer regular television to YouTube",
+        "D": "only watch content online"
+      },
+      "answer": [
+        "B"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "The Oxford research on social media...",
+      "options": {
+        "A": "was contradicted by several researchers",
+        "B": "showed it harmed girls more than boys",
+        "C": "is supported by extensive data",
+        "D": "went unnoticed in the press"
+      },
+      "answer": [
+        "A"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "People watch less conventional TV than they used to",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+
+          "text": "(As we can attest from firsthand experience,) regular TV viewership has been decreasing (as streaming services like Netflix are becoming increasingly popular.)",
+          "lines": [
+            1,
+            2
+          ],
+          "validTexts": [
+            "regular TV viewership has been decreasing",
+            "As we can attest from firsthand experience, regular TV viewership has been decreasing",
+            "regular TV viewership has been decreasing as streaming services like Netflix are becoming increasingly popular.",
+            "As we can attest from firsthand experience, regular TV viewership has been decreasing as streaming services like Netflix are becoming increasingly popular."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "Spanish researchers studied the effect of videogames on young people",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Two Spanish researchers argued that the Oxford study’s conclusions were ‘extremely misleading’, after they found that the use of social media was strongly linked to mental health issues, while TV and gaming were only weakly related.",
+          "lines": [
+            8,
+            10
+          ],
+          "validTexts": [
+            "Two Spanish researchers argued that the Oxford study’s conclusions were ‘extremely misleading’, after they found that the use of social media was strongly linked to mental health issues, while TV and gaming were only weakly related."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "The author is emphatic that screen devices have an unquestionable psychological impact",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "It’s time to abandon the idea that screen time doesn’t matter for mental health. // It does.",
+          "lines": [
+            11
+          ],
+          "validTexts": [
+            "It’s time to abandon the idea that screen time doesn’t matter for mental health.",
+            "It does.",
+            "It’s time to abandon the idea that screen time doesn’t matter for mental health. It does.",
+            "It’s time to abandon the idea that screen time doesn’t matter for mental health. // It does."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "The author suggests that adolescents should avoid interacting with friends online",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "There are other ways teens can stay in touch with friends virtually(, like texting, gaming together or meeting on FaceTime or Zoom.)",
+          "lines": [
+            14
+          ],
+          "validTexts": [
+            "There are other ways teens can stay in touch with friends virtually, like texting, gaming together or meeting on FaceTime or Zoom.",
+            "There are other ways teens can stay in touch with friends virtually"
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [],
+      "line": 4,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM/OPPOSITE FOR the requested word.",
+      "answer": [
+        "viewership"
+      ],
+      "line": 1,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [],
+      "line": 12,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING the requested definition.",
+      "answer": [],
+      "line": 14,
+      "points": 0.25
+    }
+  ]
+}

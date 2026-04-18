@@ -1,0 +1,169 @@
+{
+  "id": "2024_admision_titular_b_reading_1",
+  "title": "Iceland Elves: Real Or Imaginary?",
+  "text": "Iceland is filled with legends and all sorts of mythical creatures. None of them are better known than Iceland elves. They are present everywhere in the local culture. In Iceland, you leave food outside for the elves during Christmas. You also keep the house neat and tidy. This way, the elves have enough space to dance around while the family living in the house attends the Christmas church service. In addition, the elves are on their annual moving day on New Year’s Eve, so people light candles to help them on their way to their new residence.\n\nMentions of Icelandic elves can be found in Viking poems dating back to 1,000 years ago. Today elves are believed to be real by 62% of Icelanders, according to official studies by the University of Iceland. You only have to stop to have a chat with any Iceland road worker to hear many “true” stories. One of these legendary testimonies comes straight out of the 1930s. Attempts were made to build a road through a rock known as Elf Hill in the south of Kopavogur. Despite numerous efforts, all attempts were pointless due to unexplained occurrences. The project had to be abandoned and workers have refused to go anywhere near the site ever since. Also, in 2013 Iceland’s supreme court stopped a highway project near Reykjavik because it would disturb a protected area where there was an elf “church”. Roadwork could only start again once the church was safely relocated.\n\nElves have even inspired an actual ecological movement in Iceland. There are organizations and protesters actively campaigning against the development of certain areas of the island because they are supposedly inhabited by elves.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "The belief in elves...",
+      "options": {
+        "A": "is rare among Icelanders",
+        "B": "may go together with religious beliefs",
+        "C": "is never shared with foreigners",
+        "D": "has been refuted by university studies"
+      },
+      "answer": [
+        "B"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "Elf Hill...",
+      "options": {
+        "A": "was home to an elf church",
+        "B": "was moved to a different location",
+        "C": "had a road finally built through it",
+        "D": "remains an unchanged natural space"
+      },
+      "answer": [
+        "D"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "Elves dance in churches because they need plenty of room",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "(This way,) the elves have enough space to dance around while the family living in the house attends the Christmas church service.",
+          "lines": [
+            3,
+            4
+          ],
+          "validTexts": [
+            "This way, the elves have enough space to dance around while the family living in the house attends the Christmas church service.",
+            "the elves have enough space to dance around while the family living in the house attends the Christmas church service."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "Icelanders light candles to keep elves away from their homes",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "(In addition, the elves are on their annual moving day on New Year’s Eve, so) people light candles to help them on their way to their new residence.",
+          "lines": [
+            4,
+            5
+          ],
+          "validTexts": [
+            "In addition, the elves are on their annual moving day on New Year’s Eve, so people light candles to help them on their way to their new residence.",
+            "people light candles to help them on their way to their new residence."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "Icelandic judges have dealt with elf-related disputes",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "(Also, in 2013) Iceland’s supreme court stopped a highway project near Reykjavik because it would disturb a protected area where there was an elf ‘church.’",
+          "lines": [
+            11,
+            12
+          ],
+          "validTexts": [
+            "Also, in 2013 Iceland’s supreme court stopped a highway project near Reykjavik because it would disturb a protected area where there was an elf ‘church.’",
+            "Iceland’s supreme court stopped a highway project near Reykjavik because it would disturb a protected area where there was an elf ‘church.’"
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "Icelandic environmental activists fight to preserve elves’ natural habitat",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Elves have even inspired an actual ecological movement in Iceland. // There are organizations and protesters actively campaigning against the development of certain areas of the island because they are supposedly inhabited by elves.",
+          "lines": [
+            13,
+            14
+          ],
+          "validTexts": [
+            "Elves have even inspired an actual ecological movement in Iceland. There are organizations and protesters actively campaigning against the development of certain areas of the island because they are supposedly inhabited by elves.",
+            "There are organizations and protesters actively campaigning against the development of certain areas of the island because they are supposedly inhabited by elves."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM FOR: “type” (noun).",
+      "answer": [
+        "sort",
+        "sorts",
+        "sort(s)"
+      ],
+      "line": 1,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM FOR: “conversation” (noun).",
+      "answer": [
+        "chat"
+      ],
+      "line": 7,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: “to organize a series of activities to achieve a goal.”",
+      "answer": [
+        "campaign",
+        "campaigning",
+        "campaign(ing)"
+      ],
+      "line": 14,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: “an important road that joins cities or towns together.”",
+      "answer": [
+        "highway"
+      ],
+      "line": 11,
+      "points": 0.25
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "2024_admision_titular_b_reading_2",
+  "title": "Please Don’T Stop The Music",
+  "text": "As a child, Steve Howgego loved to sing. His favourite teacher at primary school told him he did it beautifully. He once overheard his father say: “We should send him to Durham Chorister School.” His mother said he sang awfully and didn’t let him go. It took Steve years to find his true voice. Now, at 66, Steve makes a living off music despite having received no music education as a kid.\n\nIn his youth, Steve dropped out of his degree course and got a job as a trainee computer programmer. He got promoted and moved to France, where he worked for Citicorp and bought himself some singing lessons. But he eventually lost interest in programming and quit.\n\nBack in London, someone suggested Howgego should try gospel singing. At 33, he joined London Community Gospel Choir. Singing with other singers helped him boost his confidence and vocal ability. But when his sister, to whom he was close, died at\n\nthe start of the century, Howgego had a breakdown. His voice left him for five years.\n\nHis second turning point came during therapy sessions, where he made a friend who also sang. His friend suggested Steve\n\nshould try singing in the streets —opera seemed the best option. Steve was unemployed and struggling to pay his mortgage. He thought, “Why don’t I have a go?” Donations from passers-by enabled him to keep his home. But it was their appreciation that reaffirmed him and opened up other possibilities. “What I have found by trusting in my abilities is that one positive thing leads to another,” Steve says. At present, he collaborates with other creatives and is working on a play about his experiences.",
+  "questions": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "According to the text, Steve’s father...",
+      "options": {
+        "A": "suggested providing him with musical training",
+        "B": "fought his wife’s decision",
+        "C": "paid him some music lessons",
+        "D": "disagreed with the kid’s primary teacher"
+      },
+      "answer": [
+        "A"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "According to the text, Steve...",
+      "options": {
+        "A": "combined his work at Citicorp with college courses",
+        "B": "improved his singing skills at the gospel choir",
+        "C": "lost interest in music when he got unemployed",
+        "D": "moved abroad because he won an award"
+      },
+      "answer": [
+        "B"
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A3",
+      "type": "tf",
+      "prompt": "According to the text, Steve gave up on college",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "(In his youth,) Steve dropped out of his degree course (and got a job as a trainee computer programmer.)",
+          "lines": [
+            5
+          ],
+          "validTexts": [
+            "In his youth, Steve dropped out of his degree course and got a job as a trainee computer programmer.",
+            "Steve dropped out of his degree course and got a job as a trainee computer programmer.",
+            "Steve dropped out of his degree course.",
+            "In his youth, Steve dropped out of his degree course."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A4",
+      "type": "tf",
+      "prompt": "Steve’s therapist advised him to take up singing again",
+      "answer": [
+        false
+      ],
+      "justification": [
+        {
+          "text": "His friend suggested Steve should try singing in the streets (—opera seemed the best option.)",
+          "lines": [
+            11,
+            12
+          ],
+          "validTexts": [
+            "His friend suggested Steve should try singing in the streets —opera seemed the best option.",
+            "His friend suggested Steve should try singing in the streets."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A5",
+      "type": "tf",
+      "prompt": "Steve paid his debts by passing the hat around on the street",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "Donations from passers-by enabled him to keep his home.",
+          "lines": [
+            13
+          ],
+          "validTexts": [
+            "Donations from passers-by enabled him to keep his home."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A6",
+      "type": "tf",
+      "prompt": "The public’s support strengthened Steve’s determination",
+      "answer": [
+        true
+      ],
+      "justification": [
+        {
+          "text": "But it was their appreciation that reaffirmed him (and opened up other possibilities.)",
+          "lines": [
+            13,
+            14
+          ],
+          "validTexts": [
+            "But it was their appreciation that reaffirmed him and opened up other possibilities.",
+            "But it was their appreciation that reaffirmed him."
+          ]
+        }
+      ],
+      "points": 0.5
+    },
+    {
+      "id": "A7.1",
+      "type": "word",
+      "prompt": "ONE SYNONYM FOR: “apprentice” (noun).",
+      "answer": [
+        "trainee"
+      ],
+      "line": 5,
+      "points": 0.25
+    },
+    {
+      "id": "A7.2",
+      "type": "word",
+      "prompt": "ONE SYNONYM FOR: “jobless” (adjective).",
+      "answer": [
+        "unemployed"
+      ],
+      "line": 12,
+      "points": 0.25
+    },
+    {
+      "id": "A8.1",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: “a bank loan for the purchase of a house.”",
+      "answer": [
+        "mortgage"
+      ],
+      "line": 12,
+      "points": 0.25
+    },
+    {
+      "id": "A8.2",
+      "type": "word",
+      "prompt": "ONE WORD MEANING: “to resign from a job voluntarily.”",
+      "answer": [
+        "quit"
+      ],
+      "line": 7,
+      "points": 0.25
+    }
+  ]
+}
